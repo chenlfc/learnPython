@@ -1,0 +1,5 @@
+In Python you can make class.
+In Python you can make if...elif...else.
+In Python you can make for...loop.
+In Python you can make while...loop.
+In Python you can make with.

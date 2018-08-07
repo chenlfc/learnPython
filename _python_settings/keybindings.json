@@ -1,0 +1,192 @@
+// 将按键绑定配置放入此文件中即可覆盖默认值
+[
+    {
+        "key": "shift+enter",
+        "command": "-python.execSelectionInTerminal",
+        "when": "editorFocus && !findInputFocussed && !replaceInputFocussed && editorLangId == 'python'"
+    },
+    {
+        "key": "shift+enter",
+        "command": "python.execInTerminal"
+    },
+    {
+        "key": "alt+l",
+        "command": "cursorRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "right",
+        "command": "-cursorRight",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+k",
+        "command": "cursorDown",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "down",
+        "command": "-cursorDown",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+n alt+l",
+        "command": "cursorEnd",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "end",
+        "command": "-cursorEnd",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+n alt+j",
+        "command": "cursorHome",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "home",
+        "command": "-cursorHome",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+j",
+        "command": "cursorLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "left",
+        "command": "-cursorLeft",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+n alt+i",
+        "command": "cursorTop",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+home",
+        "command": "-cursorTop",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+i",
+        "command": "cursorUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "up",
+        "command": "-cursorUp",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "cursorDownSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+down",
+        "command": "-cursorDownSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+j",
+        "command": "cursorLeftSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+left",
+        "command": "-cursorLeftSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+i",
+        "command": "cursorUpSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+up",
+        "command": "-cursorUpSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+l",
+        "command": "cursorRightSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+right",
+        "command": "-cursorRightSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+k",
+        "command": "list.expandSelectionDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+down",
+        "command": "-list.expandSelectionDown",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+alt+i",
+        "command": "list.expandSelectionUp",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+up",
+        "command": "-list.expandSelectionUp",
+        "when": "listFocus && !inputFocus"
+    },
+    {
+        "key": "shift+alt+n shift+alt+l",
+        "command": "cursorEndSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+end",
+        "command": "-cursorEndSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+n shift+alt+j",
+        "command": "cursorHomeSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+home",
+        "command": "-cursorHomeSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "alt+n alt+k",
+        "command": "cursorBottom",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+end",
+        "command": "-cursorBottom",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+n shift+alt+i",
+        "command": "cursorTopSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+home",
+        "command": "-cursorTopSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "shift+alt+n shift+alt+k",
+        "command": "cursorBottomSelect",
+        "when": "textInputFocus"
+    },
+    {
+        "key": "ctrl+shift+end",
+        "command": "-cursorBottomSelect",
+        "when": "textInputFocus"
+    }
+]

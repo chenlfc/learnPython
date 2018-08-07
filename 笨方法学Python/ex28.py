@@ -1,0 +1,25 @@
+# 布尔表达式 Boolean logic expression
+def first_boolean_logic_expression_test():
+    print(True and True, "True")
+    print(False and Ture, "False")
+    print(1 == 1 and 2 == 1, "False")
+    print("test" == "test", "True")
+    print(1 == 1 or 2 != 1, "True")
+    print(True and 1 == 1, "True")
+    print(False and 0 != 0, "False")
+    print("test" == "testing", "False")
+    print(1 != 0 and 2 == 1, "False")
+    print("test" != "testing", "True")
+    print("test" == 1, "False")
+    print(not (True and False), "True")
+    print(not (1 == 1 and 0 != 1), "False")
+    print(not (10 == 1 or 1000 == 1000), "False")
+    print(not (1 != 10 or 3 == 4), "False")
+    print(not ("testing" == "testing" and "Zed" == "Cool Guy"), "True")
+    print(1 == 1 and (not ("testing" == 1 or 1 == 0)), "True")
+    print("chunky" == "bacon" and (not (3 == 4 or 3 == 3)), "False")
+    print(3 == 3 and (not ("testing" == "testing" or "Python" == "Fun")), "False")
+
+print(3 != 4 and not ("testing" != "test" or "Python" == "Python"), "False")
+
+# ==等于 !=不等于 <小于 <=小于等于 >大于 >=大于等于
