@@ -13,6 +13,12 @@ git 提交很慢或者卡住writing objects的解决方法
 192.30.253.112 github.com
 151.101.185.194 github.global.ssl.fastly.net
 
+第三步：刷新dns缓存
+
+ipconfig /flushdns
+
+
+
 配置git
 ====================================================
 git config --global user.name "YourName"
@@ -31,3 +37,9 @@ git remote add origin https://github.com/kenight/project1.git
 将分支与远程地址进行关联
 
 git push --set-upstream origin master
+
+
+git插件
+====================================================
+Git History
+GitLens
