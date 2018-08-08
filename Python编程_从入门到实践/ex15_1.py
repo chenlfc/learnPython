@@ -28,4 +28,5 @@ plt.ylabel("Cube of Value", fontsize=14, color='#ffaaee')
 
 plt.tick_params(axis='both', which='major', labelsize=14)
 # plt.set_facecolor('lightgoldenrodyellow')
+plt.savefig('./Python编程_从入门到实践/_images/ex15_1.png', bbox_inches='tight')
 plt.show()
