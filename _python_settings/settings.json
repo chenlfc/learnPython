@@ -12,7 +12,7 @@
     "editor.cursorWidth": 3,
     "editor.letterSpacing": 0.5,
     "editor.lineHeight": 22,
-    "editor.fontFamily": "'STZhongsong_Mono'",
+    "editor.fontFamily": "'CamingoCode', 'STZhongsong_Mono'",
     "editor.fontLigatures": false,
     "editor.fontSize": 18,
     "editor.fontWeight": "300",
@@ -39,9 +39,8 @@
     "materialTheme.accentPrevious": "Cyan",
     "materialTheme.accent": "Purple",
     "terminal.integrated.fontSize": 18,
-    "workbench.colorTheme": "One Dark Pro Vivid",
+    "workbench.colorTheme": "Eva Dark Bold",
     "workbench.editor.tabSizing": "shrink",
-    "workbench.iconTheme": "material-icon-theme",
     "workbench.colorCustomizations": {
         "activityBarBadge.background": "#AB47BC",
         "list.activeSelectionForeground": "#AB47BC",
@@ -75,4 +74,7 @@
     "gitlens.advanced.messages": {
         "suppressShowKeyBindingsNotice": true
     },
+    "git.enableSmartCommit": true,
+    "git.confirmSync": false,
+    "git.autofetch": true,
 }
