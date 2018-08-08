@@ -75,3 +75,11 @@
         pip install --user pygal
         # 无法自动安装时，按提示链接用迅雷下载文件后再进行安装
         pip install pygal-2.4.0-py2.py3-none-any.whl --user
+
+> ## 安装rope
+>
+> 用于在VS Code中批量修改变量名的插件
+
+* 安装rope
+
+        pip install rope-0.10.7.tar.gz --user
