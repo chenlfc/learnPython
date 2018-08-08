@@ -9,12 +9,12 @@ from die import Die
 
 # 创建指定数量个D6
 dies = []
-die_num_sides = 32
-for n_d in range(30):
+die_num_sides = 6
+for n_d in range(2):
     dies.append(Die(die_num_sides))
 
 # 掷几次骰子，并将结果存储在一个列表中
-max_num_result = 1000000
+max_num_result = 1000
 results = []
 for roll_num in range(max_num_result):
     result = 0
