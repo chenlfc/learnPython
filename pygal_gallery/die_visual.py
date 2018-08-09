@@ -4,17 +4,22 @@
 # description : 掷骰子
 
 import pygal
+import matplotlib.pyplot as plt
 
 from die import Die
 
 # 创建一个D6和一个D10
-die_1 = Die(8)
+die_1 = Die(6)
 die_2 = Die(8)
 
 # 掷几次骰子，并将结果存储在一个列表中
 results = []
-for roll_num in range(1000000):
-    result = die_1.roll() + die_2.roll()
+x_value = []
+y_value = []
+for roll_num in range(100):
+    x_value.append(die_1.roll())
+    y_value.append(die_2.roll())
+    result = x_value[-1] + y_value[-1]
     results.append(result)
 
 # 分析结果
@@ -39,3 +44,8 @@ hist.y_title = "Frequency of Result"
 
 hist.add('D8 + D8', frequencies)
 hist.render_to_file('./pygal_gallery/svg_files/die_visual.svg')
+
+# plt.plot(x_value, y_value, c='red', lineWidth=0.5)
+
+plt.scatter(x_value, y_value, s=20)
+plt.show()
