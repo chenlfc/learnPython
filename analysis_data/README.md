@@ -33,3 +33,16 @@
   * **处理数据，绘制完整的世界人口地图**
 
     ![world_population.svg](svg_files/world_population.svg)
+
+* ## GDP相关处理文件
+
+  * **gdp_create_makdown.py** *创建预览一系列GDP数据的md文件*
+  * **gdp_world.py** *绘制GDP信息地图主文件*
+  * **get_country_code_three_or_two.py** *处理ISO_3166-1.json文件信息，返回相应的数据信息*
+    * **包含如下两个方法**：
+    * **get_two_country_code()** *根据三位国家简写码返回两位国家简写码*
+    * **show_all_country_code()** *显示ISO_3166-1.json文件信息*
+  * **ISO_3166_to_JSON.py** *用于将CSV格式的世界GDP数据文件转换为json格式的文件*
+  * **处理世界GDP信息数据，绘制完整的世界GDP信息地图**
+
+    ![gdp_word.svg](svg_files/gdp_world.svg)

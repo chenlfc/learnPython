@@ -72,3 +72,11 @@
 
 * ### JSON文件格式
   * 下载世界人口数据从[http://data.okfn.org/](http://data.okfn.org/)下载
+  * 输出json格式文件时，中文乱码时可以加上参数，代码段如下
+
+    ```python
+    # encoding='utf-8'用于打开中文时不出现乱码
+    with open(json_filename, 'w', encoding='utf-8') as f:
+        # 参数ensure_ascii=False使输出中文时不出现乱码
+        json.dump(iso_codes, f, ensure_ascii=False)
+    ```

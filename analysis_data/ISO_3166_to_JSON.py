@@ -20,5 +20,6 @@ with open(filename, encoding='utf-8') as f:
         iso_codes.append(iso_code)
 
 json_filename = './analysis_data/ISO_3166-1.json'
+# 输出json格式文件时，中文乱码时可以加上参数ensure_ascii
 with open(json_filename, 'w', encoding='utf-8') as f:
     json.dump(iso_codes, f, ensure_ascii=False)
