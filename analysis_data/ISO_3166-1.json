@@ -1,0 +1,2010 @@
+[
+    {
+        "Two Code": "AD",
+        "Three Code": "AND",
+        "Number": "20",
+        "ISO Code": "ISO 3166-2:AD",
+        "Country Name (EN)": "Andorra",
+        "Country Name (CN)": "安道尔"
+    },
+    {
+        "Two Code": "AE",
+        "Three Code": "ARE",
+        "Number": "784",
+        "ISO Code": "ISO 3166-2:AE",
+        "Country Name (EN)": "United Arab Emirates",
+        "Country Name (CN)": "阿联酋"
+    },
+    {
+        "Two Code": "AF",
+        "Three Code": "AFG",
+        "Number": "4",
+        "ISO Code": "ISO 3166-2:AF",
+        "Country Name (EN)": "Afghanistan",
+        "Country Name (CN)": "阿富汗"
+    },
+    {
+        "Two Code": "AG",
+        "Three Code": "ATG",
+        "Number": "28",
+        "ISO Code": "ISO 3166-2:AG",
+        "Country Name (EN)": "Antigua & Barbuda",
+        "Country Name (CN)": "安提瓜和巴布达"
+    },
+    {
+        "Two Code": "AI",
+        "Three Code": "AIA",
+        "Number": "660",
+        "ISO Code": "ISO 3166-2:AI",
+        "Country Name (EN)": "Anguilla",
+        "Country Name (CN)": "安圭拉"
+    },
+    {
+        "Two Code": "AL",
+        "Three Code": "ALB",
+        "Number": "8",
+        "ISO Code": "ISO 3166-2:AL",
+        "Country Name (EN)": "Albania",
+        "Country Name (CN)": "阿尔巴尼亚"
+    },
+    {
+        "Two Code": "AM",
+        "Three Code": "ARM",
+        "Number": "51",
+        "ISO Code": "ISO 3166-2:AM",
+        "Country Name (EN)": "Armenia",
+        "Country Name (CN)": "亚美尼亚"
+    },
+    {
+        "Two Code": "AO",
+        "Three Code": "AGO",
+        "Number": "24",
+        "ISO Code": "ISO 3166-2:AO",
+        "Country Name (EN)": "Angola",
+        "Country Name (CN)": "安哥拉"
+    },
+    {
+        "Two Code": "AQ",
+        "Three Code": "ATA",
+        "Number": "10",
+        "ISO Code": "ISO 3166-2:AQ",
+        "Country Name (EN)": "Antarctica",
+        "Country Name (CN)": "南极洲"
+    },
+    {
+        "Two Code": "AR",
+        "Three Code": "ARG",
+        "Number": "32",
+        "ISO Code": "ISO 3166-2:AR",
+        "Country Name (EN)": "Argentina",
+        "Country Name (CN)": "阿根廷"
+    },
+    {
+        "Two Code": "AS",
+        "Three Code": "ASM",
+        "Number": "16",
+        "ISO Code": "ISO 3166-2:AS",
+        "Country Name (EN)": "American Samoa",
+        "Country Name (CN)": "美属萨摩亚"
+    },
+    {
+        "Two Code": "AT",
+        "Three Code": "AUT",
+        "Number": "40",
+        "ISO Code": "ISO 3166-2:AT",
+        "Country Name (EN)": "Austria",
+        "Country Name (CN)": "奥地利"
+    },
+    {
+        "Two Code": "AU",
+        "Three Code": "AUS",
+        "Number": "36",
+        "ISO Code": "ISO 3166-2:AU",
+        "Country Name (EN)": "Australia",
+        "Country Name (CN)": "澳大利亚"
+    },
+    {
+        "Two Code": "AW",
+        "Three Code": "ABW",
+        "Number": "533",
+        "ISO Code": "ISO 3166-2:AW",
+        "Country Name (EN)": "Aruba",
+        "Country Name (CN)": "阿鲁巴"
+    },
+    {
+        "Two Code": "AX",
+        "Three Code": "ALA",
+        "Number": "248",
+        "ISO Code": "ISO 3166-2:AX",
+        "Country Name (EN)": "?aland Island",
+        "Country Name (CN)": "奥兰群岛"
+    },
+    {
+        "Two Code": "AZ",
+        "Three Code": "AZE",
+        "Number": "31",
+        "ISO Code": "ISO 3166-2:AZ",
+        "Country Name (EN)": "Azerbaijan",
+        "Country Name (CN)": "阿塞拜疆"
+    },
+    {
+        "Two Code": "BA",
+        "Three Code": "BIH",
+        "Number": "70",
+        "ISO Code": "ISO 3166-2:BA",
+        "Country Name (EN)": "Bosnia & Herzegovina",
+        "Country Name (CN)": "波黑"
+    },
+    {
+        "Two Code": "BB",
+        "Three Code": "BRB",
+        "Number": "52",
+        "ISO Code": "ISO 3166-2:BB",
+        "Country Name (EN)": "Barbados",
+        "Country Name (CN)": "巴巴多斯"
+    },
+    {
+        "Two Code": "BD",
+        "Three Code": "BGD",
+        "Number": "50",
+        "ISO Code": "ISO 3166-2:BD",
+        "Country Name (EN)": "Bangladesh",
+        "Country Name (CN)": "孟加拉"
+    },
+    {
+        "Two Code": "BE",
+        "Three Code": "BEL",
+        "Number": "56",
+        "ISO Code": "ISO 3166-2:BE",
+        "Country Name (EN)": "Belgium",
+        "Country Name (CN)": "比利时"
+    },
+    {
+        "Two Code": "BF",
+        "Three Code": "BFA",
+        "Number": "854",
+        "ISO Code": "ISO 3166-2:BF",
+        "Country Name (EN)": "Burkina",
+        "Country Name (CN)": "布基纳法索"
+    },
+    {
+        "Two Code": "BG",
+        "Three Code": "BGR",
+        "Number": "100",
+        "ISO Code": "ISO 3166-2:BG",
+        "Country Name (EN)": "Bulgaria",
+        "Country Name (CN)": "保加利亚"
+    },
+    {
+        "Two Code": "BH",
+        "Three Code": "BHR",
+        "Number": "48",
+        "ISO Code": "ISO 3166-2:BH",
+        "Country Name (EN)": "Bahrain",
+        "Country Name (CN)": "巴林"
+    },
+    {
+        "Two Code": "BI",
+        "Three Code": "BDI",
+        "Number": "108",
+        "ISO Code": "ISO 3166-2:BI",
+        "Country Name (EN)": "Burundi",
+        "Country Name (CN)": "布隆迪"
+    },
+    {
+        "Two Code": "BJ",
+        "Three Code": "BEN",
+        "Number": "204",
+        "ISO Code": "ISO 3166-2:BJ",
+        "Country Name (EN)": "Benin",
+        "Country Name (CN)": "贝宁"
+    },
+    {
+        "Two Code": "BL",
+        "Three Code": "BLM",
+        "Number": "652",
+        "ISO Code": "ISO 3166-2:BL",
+        "Country Name (EN)": "Saint Barthélemy",
+        "Country Name (CN)": "圣巴泰勒米岛"
+    },
+    {
+        "Two Code": "BM",
+        "Three Code": "BMU",
+        "Number": "60",
+        "ISO Code": "ISO 3166-2:BM",
+        "Country Name (EN)": "Bermuda",
+        "Country Name (CN)": "百慕大"
+    },
+    {
+        "Two Code": "BN",
+        "Three Code": "BRN",
+        "Number": "96",
+        "ISO Code": "ISO 3166-2:BN",
+        "Country Name (EN)": "Brunei",
+        "Country Name (CN)": "文莱"
+    },
+    {
+        "Two Code": "BO",
+        "Three Code": "BOL",
+        "Number": "68",
+        "ISO Code": "ISO 3166-2:BO",
+        "Country Name (EN)": "Bolivia",
+        "Country Name (CN)": "玻利维亚"
+    },
+    {
+        "Two Code": "BQ",
+        "Three Code": "BES",
+        "Number": "535",
+        "ISO Code": "ISO 3166-2:BQ",
+        "Country Name (EN)": "Caribbean Netherlands",
+        "Country Name (CN)": "荷兰加勒比区"
+    },
+    {
+        "Two Code": "BR",
+        "Three Code": "BRA",
+        "Number": "76",
+        "ISO Code": "ISO 3166-2:BR",
+        "Country Name (EN)": "Brazil",
+        "Country Name (CN)": "巴西"
+    },
+    {
+        "Two Code": "BS",
+        "Three Code": "BHS",
+        "Number": "44",
+        "ISO Code": "ISO 3166-2:BS",
+        "Country Name (EN)": "The Bahamas",
+        "Country Name (CN)": "巴哈马"
+    },
+    {
+        "Two Code": "BT",
+        "Three Code": "BTN",
+        "Number": "64",
+        "ISO Code": "ISO 3166-2:BT",
+        "Country Name (EN)": "Bhutan",
+        "Country Name (CN)": "不丹"
+    },
+    {
+        "Two Code": "BV",
+        "Three Code": "BVT",
+        "Number": "74",
+        "ISO Code": "ISO 3166-2:BV",
+        "Country Name (EN)": "Bouvet Island",
+        "Country Name (CN)": "布韦岛"
+    },
+    {
+        "Two Code": "BW",
+        "Three Code": "BWA",
+        "Number": "72",
+        "ISO Code": "ISO 3166-2:BW",
+        "Country Name (EN)": "Botswana",
+        "Country Name (CN)": "博茨瓦纳"
+    },
+    {
+        "Two Code": "BY",
+        "Three Code": "BLR",
+        "Number": "112",
+        "ISO Code": "ISO 3166-2:BY",
+        "Country Name (EN)": "Belarus",
+        "Country Name (CN)": "白俄罗斯"
+    },
+    {
+        "Two Code": "BZ",
+        "Three Code": "BLZ",
+        "Number": "84",
+        "ISO Code": "ISO 3166-2:BZ",
+        "Country Name (EN)": "Belize",
+        "Country Name (CN)": "伯利兹"
+    },
+    {
+        "Two Code": "CA",
+        "Three Code": "CAN",
+        "Number": "124",
+        "ISO Code": "ISO 3166-2:CA",
+        "Country Name (EN)": "Canada",
+        "Country Name (CN)": "加拿大"
+    },
+    {
+        "Two Code": "CC",
+        "Three Code": "CCK",
+        "Number": "166",
+        "ISO Code": "ISO 3166-2:CC",
+        "Country Name (EN)": "Cocos (Keeling) Islands",
+        "Country Name (CN)": "科科斯群岛"
+    },
+    {
+        "Two Code": "CD",
+        "Three Code": "COD",
+        "Number": "180",
+        "ISO Code": "ISO 3166-2:CD",
+        "Country Name (EN)": "Democratic Republic of the Congo",
+        "Country Name (CN)": "刚果（金）"
+    },
+    {
+        "Two Code": "CF",
+        "Three Code": "CAF",
+        "Number": "140",
+        "ISO Code": "ISO 3166-2:CF",
+        "Country Name (EN)": "Central African Republic",
+        "Country Name (CN)": "中非"
+    },
+    {
+        "Two Code": "CG",
+        "Three Code": "COG",
+        "Number": "178",
+        "ISO Code": "ISO 3166-2:CG",
+        "Country Name (EN)": "Republic of the Congo",
+        "Country Name (CN)": "刚果（布）"
+    },
+    {
+        "Two Code": "CH",
+        "Three Code": "CHE",
+        "Number": "756",
+        "ISO Code": "ISO 3166-2:CH",
+        "Country Name (EN)": "Switzerland",
+        "Country Name (CN)": "瑞士"
+    },
+    {
+        "Two Code": "CI",
+        "Three Code": "CIV",
+        "Number": "384",
+        "ISO Code": "ISO 3166-2:CI",
+        "Country Name (EN)": "C?te d'ivoire",
+        "Country Name (CN)": "科特迪瓦"
+    },
+    {
+        "Two Code": "CK",
+        "Three Code": "COK",
+        "Number": "184",
+        "ISO Code": "ISO 3166-2:CK",
+        "Country Name (EN)": "Cook Islands",
+        "Country Name (CN)": "库克群岛"
+    },
+    {
+        "Two Code": "CL",
+        "Three Code": "CHL",
+        "Number": "152",
+        "ISO Code": "ISO 3166-2:CL",
+        "Country Name (EN)": "Chile",
+        "Country Name (CN)": "智利"
+    },
+    {
+        "Two Code": "CM",
+        "Three Code": "CMR",
+        "Number": "120",
+        "ISO Code": "ISO 3166-2:CM",
+        "Country Name (EN)": "Cameroon",
+        "Country Name (CN)": "喀麦隆"
+    },
+    {
+        "Two Code": "CN",
+        "Three Code": "CHN",
+        "Number": "156",
+        "ISO Code": "ISO 3166-2:CN",
+        "Country Name (EN)": "China",
+        "Country Name (CN)": "中国；"
+    },
+    {
+        "Two Code": "",
+        "Three Code": "",
+        "Number": "",
+        "ISO Code": "",
+        "Country Name (EN)": "",
+        "Country Name (CN)": "内地"
+    },
+    {
+        "Two Code": "CO",
+        "Three Code": "COL",
+        "Number": "170",
+        "ISO Code": "ISO 3166-2:CO",
+        "Country Name (EN)": "Colombia",
+        "Country Name (CN)": "哥伦比亚"
+    },
+    {
+        "Two Code": "CR",
+        "Three Code": "CRI",
+        "Number": "188",
+        "ISO Code": "ISO 3166-2:CR",
+        "Country Name (EN)": "Costa Rica",
+        "Country Name (CN)": "哥斯达黎加"
+    },
+    {
+        "Two Code": "CU",
+        "Three Code": "CUB",
+        "Number": "192",
+        "ISO Code": "ISO 3166-2:CU",
+        "Country Name (EN)": "Cuba",
+        "Country Name (CN)": "古巴"
+    },
+    {
+        "Two Code": "CV",
+        "Three Code": "CPV",
+        "Number": "132",
+        "ISO Code": "ISO 3166-2:CV",
+        "Country Name (EN)": "Cape Verde",
+        "Country Name (CN)": "佛得角"
+    },
+    {
+        "Two Code": "CX",
+        "Three Code": "CXR",
+        "Number": "162",
+        "ISO Code": "ISO 3166-2:CX",
+        "Country Name (EN)": "Christmas Island",
+        "Country Name (CN)": "圣诞岛"
+    },
+    {
+        "Two Code": "CY",
+        "Three Code": "CYP",
+        "Number": "196",
+        "ISO Code": "ISO 3166-2:CY",
+        "Country Name (EN)": "Cyprus",
+        "Country Name (CN)": "塞浦路斯"
+    },
+    {
+        "Two Code": "CZ",
+        "Three Code": "CZE",
+        "Number": "203",
+        "ISO Code": "ISO 3166-2:CZ",
+        "Country Name (EN)": "Czech Republic",
+        "Country Name (CN)": "捷克"
+    },
+    {
+        "Two Code": "DE",
+        "Three Code": "DEU",
+        "Number": "276",
+        "ISO Code": "ISO 3166-2:DE",
+        "Country Name (EN)": "Germany",
+        "Country Name (CN)": "德国"
+    },
+    {
+        "Two Code": "DJ",
+        "Three Code": "DJI",
+        "Number": "262",
+        "ISO Code": "ISO 3166-2:DJ",
+        "Country Name (EN)": "Djibouti",
+        "Country Name (CN)": "吉布提"
+    },
+    {
+        "Two Code": "DK",
+        "Three Code": "DNK",
+        "Number": "208",
+        "ISO Code": "ISO 3166-2:DK",
+        "Country Name (EN)": "Denmark",
+        "Country Name (CN)": "丹麦"
+    },
+    {
+        "Two Code": "DM",
+        "Three Code": "DMA",
+        "Number": "212",
+        "ISO Code": "ISO 3166-2:DM",
+        "Country Name (EN)": "Dominica",
+        "Country Name (CN)": "多米尼克"
+    },
+    {
+        "Two Code": "DO",
+        "Three Code": "DOM",
+        "Number": "214",
+        "ISO Code": "ISO 3166-2:DO",
+        "Country Name (EN)": "Dominican Republic",
+        "Country Name (CN)": "多米尼加"
+    },
+    {
+        "Two Code": "DZ",
+        "Three Code": "DZA",
+        "Number": "12",
+        "ISO Code": "ISO 3166-2:DZ",
+        "Country Name (EN)": "Algeria",
+        "Country Name (CN)": "阿尔及利亚"
+    },
+    {
+        "Two Code": "EC",
+        "Three Code": "ECU",
+        "Number": "218",
+        "ISO Code": "ISO 3166-2:EC",
+        "Country Name (EN)": "Ecuado",
+        "Country Name (CN)": "厄瓜多尔"
+    },
+    {
+        "Two Code": "EE",
+        "Three Code": "EST",
+        "Number": "233",
+        "ISO Code": "ISO 3166-2:EE",
+        "Country Name (EN)": "Estonia",
+        "Country Name (CN)": "爱沙尼亚"
+    },
+    {
+        "Two Code": "EG",
+        "Three Code": "EGY",
+        "Number": "818",
+        "ISO Code": "ISO 3166-2:EG",
+        "Country Name (EN)": "Egypt",
+        "Country Name (CN)": "埃及"
+    },
+    {
+        "Two Code": "EH",
+        "Three Code": "ESH",
+        "Number": "732",
+        "ISO Code": "ISO 3166-2:EH",
+        "Country Name (EN)": "Western Sahara",
+        "Country Name (CN)": "西撒哈拉"
+    },
+    {
+        "Two Code": "ER",
+        "Three Code": "ERI",
+        "Number": "232",
+        "ISO Code": "ISO 3166-2:ER",
+        "Country Name (EN)": "Eritrea",
+        "Country Name (CN)": "厄立特里亚"
+    },
+    {
+        "Two Code": "ES",
+        "Three Code": "ESP",
+        "Number": "724",
+        "ISO Code": "ISO 3166-2:ES",
+        "Country Name (EN)": "Spain",
+        "Country Name (CN)": "西班牙"
+    },
+    {
+        "Two Code": "ET",
+        "Three Code": "ETH",
+        "Number": "231",
+        "ISO Code": "ISO 3166-2:ET",
+        "Country Name (EN)": "Ethiopia",
+        "Country Name (CN)": "埃塞俄比亚"
+    },
+    {
+        "Two Code": "FI",
+        "Three Code": "FIN",
+        "Number": "246",
+        "ISO Code": "ISO 3166-2:FI",
+        "Country Name (EN)": "Finland",
+        "Country Name (CN)": "芬兰"
+    },
+    {
+        "Two Code": "FJ",
+        "Three Code": "FJI",
+        "Number": "242",
+        "ISO Code": "ISO 3166-2:FJ",
+        "Country Name (EN)": "Fiji",
+        "Country Name (CN)": "斐济群岛"
+    },
+    {
+        "Two Code": "FK",
+        "Three Code": "FLK",
+        "Number": "238",
+        "ISO Code": "ISO 3166-2:FK",
+        "Country Name (EN)": "Falkland Islands",
+        "Country Name (CN)": "马尔维纳斯群岛（福克兰）"
+    },
+    {
+        "Two Code": "FM",
+        "Three Code": "FSM",
+        "Number": "583",
+        "ISO Code": "ISO 3166-2:FM",
+        "Country Name (EN)": "Federated States of Micronesia",
+        "Country Name (CN)": "密克罗尼西亚联邦"
+    },
+    {
+        "Two Code": "FO",
+        "Three Code": "FRO",
+        "Number": "234",
+        "ISO Code": "ISO 3166-2:FO",
+        "Country Name (EN)": "Faroe Islands",
+        "Country Name (CN)": "法罗群岛"
+    },
+    {
+        "Two Code": "FR",
+        "Three Code": "FRA",
+        "Number": "250",
+        "ISO Code": "ISO 3166-2:FR",
+        "Country Name (EN)": "France",
+        "Country Name (CN)": "法国"
+    },
+    {
+        "Two Code": "GA",
+        "Three Code": "GAB",
+        "Number": "266",
+        "ISO Code": "ISO 3166-2:GA",
+        "Country Name (EN)": "Gabon",
+        "Country Name (CN)": "加蓬"
+    },
+    {
+        "Two Code": "GB",
+        "Three Code": "GBR",
+        "Number": "826",
+        "ISO Code": "ISO 3166-2:GB",
+        "Country Name (EN)": "Great Britain (United Kingdom; England)",
+        "Country Name (CN)": "英国"
+    },
+    {
+        "Two Code": "GD",
+        "Three Code": "GRD",
+        "Number": "308",
+        "ISO Code": "ISO 3166-2:GD",
+        "Country Name (EN)": "Grenada",
+        "Country Name (CN)": "格林纳达"
+    },
+    {
+        "Two Code": "GE",
+        "Three Code": "GEO",
+        "Number": "268",
+        "ISO Code": "ISO 3166-2:GE",
+        "Country Name (EN)": "Georgia",
+        "Country Name (CN)": "格鲁吉亚"
+    },
+    {
+        "Two Code": "GF",
+        "Three Code": "GUF",
+        "Number": "254",
+        "ISO Code": "ISO 3166-2:GF",
+        "Country Name (EN)": "French Guiana",
+        "Country Name (CN)": "法属圭亚那"
+    },
+    {
+        "Two Code": "GG",
+        "Three Code": "GGY",
+        "Number": "831",
+        "ISO Code": "ISO 3166-2:GG",
+        "Country Name (EN)": "Guernsey",
+        "Country Name (CN)": "根西岛"
+    },
+    {
+        "Two Code": "GH",
+        "Three Code": "GHA",
+        "Number": "288",
+        "ISO Code": "ISO 3166-2:GH",
+        "Country Name (EN)": "Ghana",
+        "Country Name (CN)": "加纳"
+    },
+    {
+        "Two Code": "GI",
+        "Three Code": "GIB",
+        "Number": "292",
+        "ISO Code": "ISO 3166-2:GI",
+        "Country Name (EN)": "Gibraltar",
+        "Country Name (CN)": "直布罗陀"
+    },
+    {
+        "Two Code": "GL",
+        "Three Code": "GRL",
+        "Number": "304",
+        "ISO Code": "ISO 3166-2:GL",
+        "Country Name (EN)": "Greenland",
+        "Country Name (CN)": "格陵兰"
+    },
+    {
+        "Two Code": "GM",
+        "Three Code": "GMB",
+        "Number": "270",
+        "ISO Code": "ISO 3166-2:GM",
+        "Country Name (EN)": "Gambia",
+        "Country Name (CN)": "冈比亚"
+    },
+    {
+        "Two Code": "GN",
+        "Three Code": "GIN",
+        "Number": "324",
+        "ISO Code": "ISO 3166-2:GN",
+        "Country Name (EN)": "Guinea",
+        "Country Name (CN)": "几内亚"
+    },
+    {
+        "Two Code": "GP",
+        "Three Code": "GLP",
+        "Number": "312",
+        "ISO Code": "ISO 3166-2:GP",
+        "Country Name (EN)": "Guadeloupe",
+        "Country Name (CN)": "瓜德罗普"
+    },
+    {
+        "Two Code": "GQ",
+        "Three Code": "GNQ",
+        "Number": "226",
+        "ISO Code": "ISO 3166-2:GQ",
+        "Country Name (EN)": "Equatorial Guinea",
+        "Country Name (CN)": "赤道几内亚"
+    },
+    {
+        "Two Code": "GR",
+        "Three Code": "GRC",
+        "Number": "300",
+        "ISO Code": "ISO 3166-2:GR",
+        "Country Name (EN)": "Greece",
+        "Country Name (CN)": "希腊"
+    },
+    {
+        "Two Code": "GS",
+        "Three Code": "SGS",
+        "Number": "239",
+        "ISO Code": "ISO 3166-2:GS",
+        "Country Name (EN)": "South Georgia and the South Sandwich Islands",
+        "Country Name (CN)": "南乔治亚岛和南桑威奇群岛"
+    },
+    {
+        "Two Code": "GT",
+        "Three Code": "GTM",
+        "Number": "320",
+        "ISO Code": "ISO 3166-2:GT",
+        "Country Name (EN)": "Guatemala",
+        "Country Name (CN)": "危地马拉"
+    },
+    {
+        "Two Code": "GU",
+        "Three Code": "GUM",
+        "Number": "316",
+        "ISO Code": "ISO 3166-2:GU",
+        "Country Name (EN)": "Guam",
+        "Country Name (CN)": "关岛"
+    },
+    {
+        "Two Code": "GW",
+        "Three Code": "GNB",
+        "Number": "624",
+        "ISO Code": "ISO 3166-2:GW",
+        "Country Name (EN)": "Guinea-Bissau",
+        "Country Name (CN)": "几内亚比绍"
+    },
+    {
+        "Two Code": "GY",
+        "Three Code": "GUY",
+        "Number": "328",
+        "ISO Code": "ISO 3166-2:GY",
+        "Country Name (EN)": "Guyana",
+        "Country Name (CN)": "圭亚那"
+    },
+    {
+        "Two Code": "HK",
+        "Three Code": "HKG",
+        "Number": "344",
+        "ISO Code": "ISO 3166-2:HK",
+        "Country Name (EN)": "Hong Kong",
+        "Country Name (CN)": "香港"
+    },
+    {
+        "Two Code": "HM",
+        "Three Code": "HMD",
+        "Number": "334",
+        "ISO Code": "ISO 3166-2:HM",
+        "Country Name (EN)": "Heard Island and McDonald Islands",
+        "Country Name (CN)": "赫德岛和麦克唐纳群岛"
+    },
+    {
+        "Two Code": "HN",
+        "Three Code": "HND",
+        "Number": "340",
+        "ISO Code": "ISO 3166-2:HN",
+        "Country Name (EN)": "Honduras",
+        "Country Name (CN)": "洪都拉斯"
+    },
+    {
+        "Two Code": "HR",
+        "Three Code": "HRV",
+        "Number": "191",
+        "ISO Code": "ISO 3166-2:HR",
+        "Country Name (EN)": "Croatia",
+        "Country Name (CN)": "克罗地亚"
+    },
+    {
+        "Two Code": "HT",
+        "Three Code": "HTI",
+        "Number": "332",
+        "ISO Code": "ISO 3166-2:HT",
+        "Country Name (EN)": "Haiti",
+        "Country Name (CN)": "海地"
+    },
+    {
+        "Two Code": "HU",
+        "Three Code": "HUN",
+        "Number": "348",
+        "ISO Code": "ISO 3166-2:HU",
+        "Country Name (EN)": "Hungary",
+        "Country Name (CN)": "匈牙利"
+    },
+    {
+        "Two Code": "ID",
+        "Three Code": "IDN",
+        "Number": "360",
+        "ISO Code": "ISO 3166-2:ID",
+        "Country Name (EN)": "Indonesia",
+        "Country Name (CN)": "印尼"
+    },
+    {
+        "Two Code": "IE",
+        "Three Code": "IRL",
+        "Number": "372",
+        "ISO Code": "ISO 3166-2:IE",
+        "Country Name (EN)": "Ireland",
+        "Country Name (CN)": "爱尔兰"
+    },
+    {
+        "Two Code": "IL",
+        "Three Code": "ISR",
+        "Number": "376",
+        "ISO Code": "ISO 3166-2:IL",
+        "Country Name (EN)": "Israel",
+        "Country Name (CN)": "以色列"
+    },
+    {
+        "Two Code": "IM",
+        "Three Code": "IMN",
+        "Number": "833",
+        "ISO Code": "ISO 3166-2:IM",
+        "Country Name (EN)": "Isle of Man",
+        "Country Name (CN)": "马恩岛"
+    },
+    {
+        "Two Code": "IN",
+        "Three Code": "IND",
+        "Number": "356",
+        "ISO Code": "ISO 3166-2:IN",
+        "Country Name (EN)": "India",
+        "Country Name (CN)": "印度"
+    },
+    {
+        "Two Code": "IO",
+        "Three Code": "IOT",
+        "Number": "86",
+        "ISO Code": "ISO 3166-2:IO",
+        "Country Name (EN)": "British Indian Ocean Territory",
+        "Country Name (CN)": "英属印度洋领地"
+    },
+    {
+        "Two Code": "IQ",
+        "Three Code": "IRQ",
+        "Number": "368",
+        "ISO Code": "ISO 3166-2:IQ",
+        "Country Name (EN)": "Iraq",
+        "Country Name (CN)": "伊拉克"
+    },
+    {
+        "Two Code": "IR",
+        "Three Code": "IRN",
+        "Number": "364",
+        "ISO Code": "ISO 3166-2:IR",
+        "Country Name (EN)": "Iran",
+        "Country Name (CN)": "伊朗"
+    },
+    {
+        "Two Code": "IS",
+        "Three Code": "ISL",
+        "Number": "352",
+        "ISO Code": "ISO 3166-2:IS",
+        "Country Name (EN)": "Iceland",
+        "Country Name (CN)": "冰岛"
+    },
+    {
+        "Two Code": "IT",
+        "Three Code": "ITA",
+        "Number": "380",
+        "ISO Code": "ISO 3166-2:IT",
+        "Country Name (EN)": "Italy",
+        "Country Name (CN)": "意大利"
+    },
+    {
+        "Two Code": "JE",
+        "Three Code": "JEY",
+        "Number": "832",
+        "ISO Code": "ISO 3166-2:JE",
+        "Country Name (EN)": "Jersey",
+        "Country Name (CN)": "泽西岛"
+    },
+    {
+        "Two Code": "JM",
+        "Three Code": "JAM",
+        "Number": "388",
+        "ISO Code": "ISO 3166-2:JM",
+        "Country Name (EN)": "Jamaica",
+        "Country Name (CN)": "牙买加"
+    },
+    {
+        "Two Code": "JO",
+        "Three Code": "JOR",
+        "Number": "400",
+        "ISO Code": "ISO 3166-2:JO",
+        "Country Name (EN)": "Jordan",
+        "Country Name (CN)": "约旦"
+    },
+    {
+        "Two Code": "JP",
+        "Three Code": "JPN",
+        "Number": "392",
+        "ISO Code": "ISO 3166-2:JP",
+        "Country Name (EN)": "Japan",
+        "Country Name (CN)": "日本"
+    },
+    {
+        "Two Code": "KE",
+        "Three Code": "KEN",
+        "Number": "404",
+        "ISO Code": "ISO 3166-2:KE",
+        "Country Name (EN)": "Kenya",
+        "Country Name (CN)": "肯尼亚"
+    },
+    {
+        "Two Code": "KG",
+        "Three Code": "KGZ",
+        "Number": "417",
+        "ISO Code": "ISO 3166-2:KG",
+        "Country Name (EN)": "Kyrgyzstan",
+        "Country Name (CN)": "吉尔吉斯斯坦"
+    },
+    {
+        "Two Code": "KH",
+        "Three Code": "KHM",
+        "Number": "116",
+        "ISO Code": "ISO 3166-2:KH",
+        "Country Name (EN)": "Cambodia",
+        "Country Name (CN)": "柬埔寨"
+    },
+    {
+        "Two Code": "KI",
+        "Three Code": "KIR",
+        "Number": "296",
+        "ISO Code": "ISO 3166-2:KI",
+        "Country Name (EN)": "Kiribati",
+        "Country Name (CN)": "基里巴斯"
+    },
+    {
+        "Two Code": "KM",
+        "Three Code": "COM",
+        "Number": "174",
+        "ISO Code": "ISO 3166-2:KM",
+        "Country Name (EN)": "The Comoros",
+        "Country Name (CN)": "科摩罗"
+    },
+    {
+        "Two Code": "KN",
+        "Three Code": "KNA",
+        "Number": "659",
+        "ISO Code": "ISO 3166-2:KN",
+        "Country Name (EN)": "St. Kitts & Nevis",
+        "Country Name (CN)": "圣基茨和尼维斯"
+    },
+    {
+        "Two Code": "KP",
+        "Three Code": "PRK",
+        "Number": "408",
+        "ISO Code": "ISO 3166-2:KP",
+        "Country Name (EN)": "North Korea",
+        "Country Name (CN)": "朝鲜；"
+    },
+    {
+        "Two Code": "",
+        "Three Code": "",
+        "Number": "",
+        "ISO Code": "",
+        "Country Name (EN)": "",
+        "Country Name (CN)": "北朝鲜"
+    },
+    {
+        "Two Code": "KR",
+        "Three Code": "KOR",
+        "Number": "410",
+        "ISO Code": "ISO 3166-2:KR",
+        "Country Name (EN)": "South Korea",
+        "Country Name (CN)": "韩国；"
+    },
+    {
+        "Two Code": "",
+        "Three Code": "",
+        "Number": "",
+        "ISO Code": "",
+        "Country Name (EN)": "",
+        "Country Name (CN)": "南朝鲜"
+    },
+    {
+        "Two Code": "KW",
+        "Three Code": "KWT",
+        "Number": "414",
+        "ISO Code": "ISO 3166-2:KW",
+        "Country Name (EN)": "Kuwait",
+        "Country Name (CN)": "科威特"
+    },
+    {
+        "Two Code": "KY",
+        "Three Code": "CYM",
+        "Number": "136",
+        "ISO Code": "ISO 3166-2:KY",
+        "Country Name (EN)": "Cayman Islands",
+        "Country Name (CN)": "开曼群岛"
+    },
+    {
+        "Two Code": "KZ",
+        "Three Code": "KAZ",
+        "Number": "398",
+        "ISO Code": "ISO 3166-2:KZ",
+        "Country Name (EN)": "Kazakhstan",
+        "Country Name (CN)": "哈萨克斯坦"
+    },
+    {
+        "Two Code": "LA",
+        "Three Code": "LAO",
+        "Number": "418",
+        "ISO Code": "ISO 3166-2:LA",
+        "Country Name (EN)": "Laos",
+        "Country Name (CN)": "老挝"
+    },
+    {
+        "Two Code": "LB",
+        "Three Code": "LBN",
+        "Number": "422",
+        "ISO Code": "ISO 3166-2:LB",
+        "Country Name (EN)": "Lebanon",
+        "Country Name (CN)": "黎巴嫩"
+    },
+    {
+        "Two Code": "LC",
+        "Three Code": "LCA",
+        "Number": "662",
+        "ISO Code": "ISO 3166-2:LC",
+        "Country Name (EN)": "St. Lucia",
+        "Country Name (CN)": "圣卢西亚"
+    },
+    {
+        "Two Code": "LI",
+        "Three Code": "LIE",
+        "Number": "438",
+        "ISO Code": "ISO 3166-2:LI",
+        "Country Name (EN)": "Liechtenstein",
+        "Country Name (CN)": "列支敦士登"
+    },
+    {
+        "Two Code": "LK",
+        "Three Code": "LKA",
+        "Number": "144",
+        "ISO Code": "ISO 3166-2:LK",
+        "Country Name (EN)": "Sri Lanka",
+        "Country Name (CN)": "斯里兰卡"
+    },
+    {
+        "Two Code": "LR",
+        "Three Code": "LBR",
+        "Number": "430",
+        "ISO Code": "ISO 3166-2:LR",
+        "Country Name (EN)": "Liberia",
+        "Country Name (CN)": "利比里亚"
+    },
+    {
+        "Two Code": "LS",
+        "Three Code": "LSO",
+        "Number": "426",
+        "ISO Code": "ISO 3166-2:LS",
+        "Country Name (EN)": "Lesotho",
+        "Country Name (CN)": "莱索托"
+    },
+    {
+        "Two Code": "LT",
+        "Three Code": "LTU",
+        "Number": "440",
+        "ISO Code": "ISO 3166-2:LT",
+        "Country Name (EN)": "Lithuania",
+        "Country Name (CN)": "立陶宛"
+    },
+    {
+        "Two Code": "LU",
+        "Three Code": "LUX",
+        "Number": "442",
+        "ISO Code": "ISO 3166-2:LU",
+        "Country Name (EN)": "Luxembourg",
+        "Country Name (CN)": "卢森堡"
+    },
+    {
+        "Two Code": "LV",
+        "Three Code": "LVA",
+        "Number": "428",
+        "ISO Code": "ISO 3166-2:LV",
+        "Country Name (EN)": "Latvia",
+        "Country Name (CN)": "拉脱维亚"
+    },
+    {
+        "Two Code": "LY",
+        "Three Code": "LBY",
+        "Number": "434",
+        "ISO Code": "ISO 3166-2:LY",
+        "Country Name (EN)": "Libya",
+        "Country Name (CN)": "利比亚"
+    },
+    {
+        "Two Code": "MA",
+        "Three Code": "MAR",
+        "Number": "504",
+        "ISO Code": "ISO 3166-2:MA",
+        "Country Name (EN)": "Morocco",
+        "Country Name (CN)": "摩洛哥"
+    },
+    {
+        "Two Code": "MC",
+        "Three Code": "MCO",
+        "Number": "492",
+        "ISO Code": "ISO 3166-2:MC",
+        "Country Name (EN)": "Monaco",
+        "Country Name (CN)": "摩纳哥"
+    },
+    {
+        "Two Code": "MD",
+        "Three Code": "MDA",
+        "Number": "498",
+        "ISO Code": "ISO 3166-2:MD",
+        "Country Name (EN)": "Moldova",
+        "Country Name (CN)": "摩尔多瓦"
+    },
+    {
+        "Two Code": "ME",
+        "Three Code": "MNE",
+        "Number": "499",
+        "ISO Code": "ISO 3166-2:ME",
+        "Country Name (EN)": "Montenegro",
+        "Country Name (CN)": "黑山"
+    },
+    {
+        "Two Code": "MF",
+        "Three Code": "MAF",
+        "Number": "663",
+        "ISO Code": "ISO 3166-2:MF",
+        "Country Name (EN)": "Saint Martin (France)",
+        "Country Name (CN)": "法属圣马丁"
+    },
+    {
+        "Two Code": "MG",
+        "Three Code": "MDG",
+        "Number": "450",
+        "ISO Code": "ISO 3166-2:MG",
+        "Country Name (EN)": "Madagascar",
+        "Country Name (CN)": "马达加斯加"
+    },
+    {
+        "Two Code": "MH",
+        "Three Code": "MHL",
+        "Number": "584",
+        "ISO Code": "ISO 3166-2:MH",
+        "Country Name (EN)": "Marshall islands",
+        "Country Name (CN)": "马绍尔群岛"
+    },
+    {
+        "Two Code": "MK",
+        "Three Code": "MKD",
+        "Number": "807",
+        "ISO Code": "ISO 3166-2:MK",
+        "Country Name (EN)": "Republic of Macedonia (FYROM)",
+        "Country Name (CN)": "马其顿"
+    },
+    {
+        "Two Code": "ML",
+        "Three Code": "MLI",
+        "Number": "466",
+        "ISO Code": "ISO 3166-2:ML",
+        "Country Name (EN)": "Mali",
+        "Country Name (CN)": "马里"
+    },
+    {
+        "Two Code": "MM",
+        "Three Code": "MMR",
+        "Number": "104",
+        "ISO Code": "ISO 3166-2:MM",
+        "Country Name (EN)": "Myanmar (Burma)",
+        "Country Name (CN)": "缅甸"
+    },
+    {
+        "Two Code": "MN",
+        "Three Code": "MNG",
+        "Number": "496",
+        "ISO Code": "ISO 3166-2:MN",
+        "Country Name (EN)": "Mongolia",
+        "Country Name (CN)": "蒙古国；蒙古"
+    },
+    {
+        "Two Code": "MO",
+        "Three Code": "MAC",
+        "Number": "446",
+        "ISO Code": "ISO 3166-2:MO",
+        "Country Name (EN)": "Macao",
+        "Country Name (CN)": "澳门"
+    },
+    {
+        "Two Code": "MP",
+        "Three Code": "MNP",
+        "Number": "580",
+        "ISO Code": "ISO 3166-2:MP",
+        "Country Name (EN)": "Northern Mariana Islands",
+        "Country Name (CN)": "北马里亚纳群岛"
+    },
+    {
+        "Two Code": "MQ",
+        "Three Code": "MTQ",
+        "Number": "474",
+        "ISO Code": "ISO 3166-2:MQ",
+        "Country Name (EN)": "Martinique",
+        "Country Name (CN)": "马提尼克"
+    },
+    {
+        "Two Code": "MR",
+        "Three Code": "MRT",
+        "Number": "478",
+        "ISO Code": "ISO 3166-2:MR",
+        "Country Name (EN)": "Mauritania",
+        "Country Name (CN)": "毛里塔尼亚"
+    },
+    {
+        "Two Code": "MS",
+        "Three Code": "MSR",
+        "Number": "500",
+        "ISO Code": "ISO 3166-2:MS",
+        "Country Name (EN)": "Montserrat",
+        "Country Name (CN)": "蒙塞拉特岛"
+    },
+    {
+        "Two Code": "MT",
+        "Three Code": "MLT",
+        "Number": "470",
+        "ISO Code": "ISO 3166-2:MT",
+        "Country Name (EN)": "Malta",
+        "Country Name (CN)": "马耳他"
+    },
+    {
+        "Two Code": "MU",
+        "Three Code": "MUS",
+        "Number": "480",
+        "ISO Code": "ISO 3166-2:MU",
+        "Country Name (EN)": "Mauritius",
+        "Country Name (CN)": "毛里求斯"
+    },
+    {
+        "Two Code": "MV",
+        "Three Code": "MDV",
+        "Number": "462",
+        "ISO Code": "ISO 3166-2:MV",
+        "Country Name (EN)": "Maldives",
+        "Country Name (CN)": "马尔代夫"
+    },
+    {
+        "Two Code": "MW",
+        "Three Code": "MWI",
+        "Number": "454",
+        "ISO Code": "ISO 3166-2:MW",
+        "Country Name (EN)": "Malawi",
+        "Country Name (CN)": "马拉维"
+    },
+    {
+        "Two Code": "MX",
+        "Three Code": "MEX",
+        "Number": "484",
+        "ISO Code": "ISO 3166-2:MX",
+        "Country Name (EN)": "Mexico",
+        "Country Name (CN)": "墨西哥"
+    },
+    {
+        "Two Code": "MY",
+        "Three Code": "MYS",
+        "Number": "458",
+        "ISO Code": "ISO 3166-2:MY",
+        "Country Name (EN)": "Malaysia",
+        "Country Name (CN)": "马来西亚"
+    },
+    {
+        "Two Code": "MZ",
+        "Three Code": "MOZ",
+        "Number": "508",
+        "ISO Code": "ISO 3166-2:MZ",
+        "Country Name (EN)": "Mozambique",
+        "Country Name (CN)": "莫桑比克"
+    },
+    {
+        "Two Code": "NA",
+        "Three Code": "NAM",
+        "Number": "516",
+        "ISO Code": "ISO 3166-2:NA",
+        "Country Name (EN)": "Namibia",
+        "Country Name (CN)": "纳米比亚"
+    },
+    {
+        "Two Code": "NC",
+        "Three Code": "NCL",
+        "Number": "540",
+        "ISO Code": "ISO 3166-2:NC",
+        "Country Name (EN)": "New Caledonia",
+        "Country Name (CN)": "新喀里多尼亚"
+    },
+    {
+        "Two Code": "NE",
+        "Three Code": "NER",
+        "Number": "562",
+        "ISO Code": "ISO 3166-2:NE",
+        "Country Name (EN)": "Niger",
+        "Country Name (CN)": "尼日尔"
+    },
+    {
+        "Two Code": "NF",
+        "Three Code": "NFK",
+        "Number": "574",
+        "ISO Code": "ISO 3166-2:NF",
+        "Country Name (EN)": "Norfolk Island",
+        "Country Name (CN)": "诺福克岛"
+    },
+    {
+        "Two Code": "NG",
+        "Three Code": "NGA",
+        "Number": "566",
+        "ISO Code": "ISO 3166-2:NG",
+        "Country Name (EN)": "Nigeria",
+        "Country Name (CN)": "尼日利亚"
+    },
+    {
+        "Two Code": "NI",
+        "Three Code": "NIC",
+        "Number": "558",
+        "ISO Code": "ISO 3166-2:NI",
+        "Country Name (EN)": "Nicaragua",
+        "Country Name (CN)": "尼加拉瓜"
+    },
+    {
+        "Two Code": "NL",
+        "Three Code": "NLD",
+        "Number": "528",
+        "ISO Code": "ISO 3166-2:NL",
+        "Country Name (EN)": "Netherlands",
+        "Country Name (CN)": "荷兰"
+    },
+    {
+        "Two Code": "NO",
+        "Three Code": "NOR",
+        "Number": "578",
+        "ISO Code": "ISO 3166-2:NO",
+        "Country Name (EN)": "Norway",
+        "Country Name (CN)": "挪威"
+    },
+    {
+        "Two Code": "NP",
+        "Three Code": "NPL",
+        "Number": "524",
+        "ISO Code": "ISO 3166-2:NP",
+        "Country Name (EN)": "Nepal",
+        "Country Name (CN)": "尼泊尔"
+    },
+    {
+        "Two Code": "NR",
+        "Three Code": "NRU",
+        "Number": "520",
+        "ISO Code": "ISO 3166-2:NR",
+        "Country Name (EN)": "Nauru",
+        "Country Name (CN)": "瑙鲁"
+    },
+    {
+        "Two Code": "NU",
+        "Three Code": "NIU",
+        "Number": "570",
+        "ISO Code": "ISO 3166-2:NU",
+        "Country Name (EN)": "Niue",
+        "Country Name (CN)": "纽埃"
+    },
+    {
+        "Two Code": "NZ",
+        "Three Code": "NZL",
+        "Number": "554",
+        "ISO Code": "ISO 3166-2:NZ",
+        "Country Name (EN)": "New Zealand",
+        "Country Name (CN)": "新西兰"
+    },
+    {
+        "Two Code": "OM",
+        "Three Code": "OMN",
+        "Number": "512",
+        "ISO Code": "ISO 3166-2:OM",
+        "Country Name (EN)": "Oman",
+        "Country Name (CN)": "阿曼"
+    },
+    {
+        "Two Code": "PA",
+        "Three Code": "PAN",
+        "Number": "591",
+        "ISO Code": "ISO 3166-2:PA",
+        "Country Name (EN)": "Panama",
+        "Country Name (CN)": "巴拿马"
+    },
+    {
+        "Two Code": "PE",
+        "Three Code": "PER",
+        "Number": "604",
+        "ISO Code": "ISO 3166-2:PE",
+        "Country Name (EN)": "Peru",
+        "Country Name (CN)": "秘鲁"
+    },
+    {
+        "Two Code": "PF",
+        "Three Code": "PYF",
+        "Number": "258",
+        "ISO Code": "ISO 3166-2:PF",
+        "Country Name (EN)": "French polynesia",
+        "Country Name (CN)": "法属波利尼西亚"
+    },
+    {
+        "Two Code": "PG",
+        "Three Code": "PNG",
+        "Number": "598",
+        "ISO Code": "ISO 3166-2:PG",
+        "Country Name (EN)": "Papua New Guinea",
+        "Country Name (CN)": "巴布亚新几内亚"
+    },
+    {
+        "Two Code": "PH",
+        "Three Code": "PHL",
+        "Number": "608",
+        "ISO Code": "ISO 3166-2:PH",
+        "Country Name (EN)": "The Philippines",
+        "Country Name (CN)": "菲律宾"
+    },
+    {
+        "Two Code": "PK",
+        "Three Code": "PAK",
+        "Number": "586",
+        "ISO Code": "ISO 3166-2:PK",
+        "Country Name (EN)": "Pakistan",
+        "Country Name (CN)": "巴基斯坦"
+    },
+    {
+        "Two Code": "PL",
+        "Three Code": "POL",
+        "Number": "616",
+        "ISO Code": "ISO 3166-2:PL",
+        "Country Name (EN)": "Poland",
+        "Country Name (CN)": "波兰"
+    },
+    {
+        "Two Code": "PM",
+        "Three Code": "SPM",
+        "Number": "666",
+        "ISO Code": "ISO 3166-2:PM",
+        "Country Name (EN)": "Saint-Pierre and Miquelon",
+        "Country Name (CN)": "圣皮埃尔和密克隆"
+    },
+    {
+        "Two Code": "PN",
+        "Three Code": "PCN",
+        "Number": "612",
+        "ISO Code": "ISO 3166-2:PN",
+        "Country Name (EN)": "Pitcairn Islands",
+        "Country Name (CN)": "皮特凯恩群岛"
+    },
+    {
+        "Two Code": "PR",
+        "Three Code": "PRI",
+        "Number": "630",
+        "ISO Code": "ISO 3166-2:PR",
+        "Country Name (EN)": "Puerto Rico",
+        "Country Name (CN)": "波多黎各"
+    },
+    {
+        "Two Code": "PS",
+        "Three Code": "PSE",
+        "Number": "275",
+        "ISO Code": "ISO 3166-2:PS",
+        "Country Name (EN)": "Palestinian territories",
+        "Country Name (CN)": "巴勒斯坦"
+    },
+    {
+        "Two Code": "PT",
+        "Three Code": "PRT",
+        "Number": "620",
+        "ISO Code": "ISO 3166-2:PT",
+        "Country Name (EN)": "Portugal",
+        "Country Name (CN)": "葡萄牙"
+    },
+    {
+        "Two Code": "PW",
+        "Three Code": "PLW",
+        "Number": "585",
+        "ISO Code": "ISO 3166-2:PW",
+        "Country Name (EN)": "Palau",
+        "Country Name (CN)": "帕劳"
+    },
+    {
+        "Two Code": "PY",
+        "Three Code": "PRY",
+        "Number": "600",
+        "ISO Code": "ISO 3166-2:PY",
+        "Country Name (EN)": "Paraguay",
+        "Country Name (CN)": "巴拉圭"
+    },
+    {
+        "Two Code": "QA",
+        "Three Code": "QAT",
+        "Number": "634",
+        "ISO Code": "ISO 3166-2:QA",
+        "Country Name (EN)": "Qatar",
+        "Country Name (CN)": "卡塔尔"
+    },
+    {
+        "Two Code": "RE",
+        "Three Code": "REU",
+        "Number": "638",
+        "ISO Code": "ISO 3166-2:RE",
+        "Country Name (EN)": "Réunion",
+        "Country Name (CN)": "留尼汪"
+    },
+    {
+        "Two Code": "RO",
+        "Three Code": "ROU",
+        "Number": "642",
+        "ISO Code": "ISO 3166-2:RO",
+        "Country Name (EN)": "Romania",
+        "Country Name (CN)": "罗马尼亚"
+    },
+    {
+        "Two Code": "RS",
+        "Three Code": "SRB",
+        "Number": "688",
+        "ISO Code": "ISO 3166-2:RS",
+        "Country Name (EN)": "Serbia",
+        "Country Name (CN)": "塞尔维亚"
+    },
+    {
+        "Two Code": "RU",
+        "Three Code": "RUS",
+        "Number": "643",
+        "ISO Code": "ISO 3166-2:RU",
+        "Country Name (EN)": "Russian Federation",
+        "Country Name (CN)": "俄罗斯"
+    },
+    {
+        "Two Code": "RW",
+        "Three Code": "RWA",
+        "Number": "646",
+        "ISO Code": "ISO 3166-2:RW",
+        "Country Name (EN)": "Rwanda",
+        "Country Name (CN)": "卢旺达"
+    },
+    {
+        "Two Code": "SA",
+        "Three Code": "SAU",
+        "Number": "682",
+        "ISO Code": "ISO 3166-2:SA",
+        "Country Name (EN)": "Saudi Arabia",
+        "Country Name (CN)": "沙特阿拉伯"
+    },
+    {
+        "Two Code": "SB",
+        "Three Code": "SLB",
+        "Number": "90",
+        "ISO Code": "ISO 3166-2:SB",
+        "Country Name (EN)": "Solomon Islands",
+        "Country Name (CN)": "所罗门群岛"
+    },
+    {
+        "Two Code": "SC",
+        "Three Code": "SYC",
+        "Number": "690",
+        "ISO Code": "ISO 3166-2:SC",
+        "Country Name (EN)": "Seychelles",
+        "Country Name (CN)": "塞舌尔"
+    },
+    {
+        "Two Code": "SD",
+        "Three Code": "SDN",
+        "Number": "729",
+        "ISO Code": "ISO 3166-2:SD",
+        "Country Name (EN)": "Sudan",
+        "Country Name (CN)": "苏丹"
+    },
+    {
+        "Two Code": "SE",
+        "Three Code": "SWE",
+        "Number": "752",
+        "ISO Code": "ISO 3166-2:SE",
+        "Country Name (EN)": "Sweden",
+        "Country Name (CN)": "瑞典"
+    },
+    {
+        "Two Code": "SG",
+        "Three Code": "SGP",
+        "Number": "702",
+        "ISO Code": "ISO 3166-2:SG",
+        "Country Name (EN)": "Singapore",
+        "Country Name (CN)": "新加坡"
+    },
+    {
+        "Two Code": "",
+        "Three Code": "",
+        "Number": "",
+        "ISO Code": "",
+        "Country Name (EN)": "",
+        "Country Name (CN)": ""
+    },
+    {
+        "Two Code": "SH",
+        "Three Code": "SHN",
+        "Number": "654",
+        "ISO Code": "ISO 3166-2:SH",
+        "Country Name (EN)": "St. Helena & Dependencies",
+        "Country Name (CN)": "圣赫勒拿"
+    },
+    {
+        "Two Code": "SI",
+        "Three Code": "SVN",
+        "Number": "705",
+        "ISO Code": "ISO 3166-2:SI",
+        "Country Name (EN)": "Slovenia",
+        "Country Name (CN)": "斯洛文尼亚"
+    },
+    {
+        "Two Code": "SJ",
+        "Three Code": "SJM",
+        "Number": "744",
+        "ISO Code": "ISO 3166-2:SJ",
+        "Country Name (EN)": "Template:Country data SJMSvalbard",
+        "Country Name (CN)": "斯瓦尔巴群岛和扬马延岛"
+    },
+    {
+        "Two Code": "SK",
+        "Three Code": "SVK",
+        "Number": "703",
+        "ISO Code": "ISO 3166-2:SK",
+        "Country Name (EN)": "Slovakia",
+        "Country Name (CN)": "斯洛伐克"
+    },
+    {
+        "Two Code": "SL",
+        "Three Code": "SLE",
+        "Number": "694",
+        "ISO Code": "ISO 3166-2:SL",
+        "Country Name (EN)": "Sierra Leone",
+        "Country Name (CN)": "塞拉利昂"
+    },
+    {
+        "Two Code": "SM",
+        "Three Code": "SMR",
+        "Number": "674",
+        "ISO Code": "ISO 3166-2:SM",
+        "Country Name (EN)": "San Marino",
+        "Country Name (CN)": "圣马力诺"
+    },
+    {
+        "Two Code": "SN",
+        "Three Code": "SEN",
+        "Number": "686",
+        "ISO Code": "ISO 3166-2:SN",
+        "Country Name (EN)": "Senegal",
+        "Country Name (CN)": "塞内加尔"
+    },
+    {
+        "Two Code": "SO",
+        "Three Code": "SOM",
+        "Number": "706",
+        "ISO Code": "ISO 3166-2:SO",
+        "Country Name (EN)": "Somalia",
+        "Country Name (CN)": "索马里"
+    },
+    {
+        "Two Code": "SR",
+        "Three Code": "SUR",
+        "Number": "740",
+        "ISO Code": "ISO 3166-2:SR",
+        "Country Name (EN)": "Suriname",
+        "Country Name (CN)": "苏里南"
+    },
+    {
+        "Two Code": "SS",
+        "Three Code": "SSD",
+        "Number": "728",
+        "ISO Code": "ISO 3166-2:SS",
+        "Country Name (EN)": "",
+        "Country Name (CN)": "南苏丹"
+    },
+    {
+        "Two Code": "ST",
+        "Three Code": "STP",
+        "Number": "678",
+        "ISO Code": "ISO 3166-2:ST",
+        "Country Name (EN)": "Sao Tome & Principe",
+        "Country Name (CN)": "圣多美和普林西比"
+    },
+    {
+        "Two Code": "SV",
+        "Three Code": "SLV",
+        "Number": "222",
+        "ISO Code": "ISO 3166-2:SV",
+        "Country Name (EN)": "El Salvador",
+        "Country Name (CN)": "萨尔瓦多"
+    },
+    {
+        "Two Code": "SY",
+        "Three Code": "SYR",
+        "Number": "760",
+        "ISO Code": "ISO 3166-2:SY",
+        "Country Name (EN)": "Syria",
+        "Country Name (CN)": "叙利亚"
+    },
+    {
+        "Two Code": "SZ",
+        "Three Code": "SWZ",
+        "Number": "748",
+        "ISO Code": "ISO 3166-2:SZ",
+        "Country Name (EN)": "Swaziland",
+        "Country Name (CN)": "斯威士兰"
+    },
+    {
+        "Two Code": "TC",
+        "Three Code": "TCA",
+        "Number": "796",
+        "ISO Code": "ISO 3166-2:TC",
+        "Country Name (EN)": "Turks & Caicos Islands",
+        "Country Name (CN)": "特克斯和凯科斯群岛"
+    },
+    {
+        "Two Code": "TD",
+        "Three Code": "TCD",
+        "Number": "148",
+        "ISO Code": "ISO 3166-2:TD",
+        "Country Name (EN)": "Chad",
+        "Country Name (CN)": "乍得"
+    },
+    {
+        "Two Code": "TF",
+        "Three Code": "ATF",
+        "Number": "260",
+        "ISO Code": "ISO 3166-2:TF",
+        "Country Name (EN)": "French Southern Territories",
+        "Country Name (CN)": "法属南部领地"
+    },
+    {
+        "Two Code": "TG",
+        "Three Code": "TGO",
+        "Number": "768",
+        "ISO Code": "ISO 3166-2:TG",
+        "Country Name (EN)": "Togo",
+        "Country Name (CN)": "多哥"
+    },
+    {
+        "Two Code": "TH",
+        "Three Code": "THA",
+        "Number": "764",
+        "ISO Code": "ISO 3166-2:TH",
+        "Country Name (EN)": "Thailand",
+        "Country Name (CN)": "泰国"
+    },
+    {
+        "Two Code": "TJ",
+        "Three Code": "TJK",
+        "Number": "762",
+        "ISO Code": "ISO 3166-2:TJ",
+        "Country Name (EN)": "Tajikistan",
+        "Country Name (CN)": "塔吉克斯坦"
+    },
+    {
+        "Two Code": "TK",
+        "Three Code": "TKL",
+        "Number": "772",
+        "ISO Code": "ISO 3166-2:TK",
+        "Country Name (EN)": "Tokelau",
+        "Country Name (CN)": "托克劳"
+    },
+    {
+        "Two Code": "TL",
+        "Three Code": "TLS",
+        "Number": "626",
+        "ISO Code": "ISO 3166-2:TP",
+        "Country Name (EN)": "Timor-Leste (East Timor)",
+        "Country Name (CN)": "东帝汶"
+    },
+    {
+        "Two Code": "TM",
+        "Three Code": "TKM",
+        "Number": "795",
+        "ISO Code": "ISO 3166-2:TM",
+        "Country Name (EN)": "Turkmenistan",
+        "Country Name (CN)": "土库曼斯坦"
+    },
+    {
+        "Two Code": "TN",
+        "Three Code": "TUN",
+        "Number": "788",
+        "ISO Code": "ISO 3166-2:TN",
+        "Country Name (EN)": "Tunisia",
+        "Country Name (CN)": "突尼斯"
+    },
+    {
+        "Two Code": "TO",
+        "Three Code": "TON",
+        "Number": "776",
+        "ISO Code": "ISO 3166-2:TO",
+        "Country Name (EN)": "Tonga",
+        "Country Name (CN)": "汤加"
+    },
+    {
+        "Two Code": "TR",
+        "Three Code": "TUR",
+        "Number": "792",
+        "ISO Code": "ISO 3166-2:TR",
+        "Country Name (EN)": "Turkey",
+        "Country Name (CN)": "土耳其"
+    },
+    {
+        "Two Code": "TT",
+        "Three Code": "TTO",
+        "Number": "780",
+        "ISO Code": "ISO 3166-2:TT",
+        "Country Name (EN)": "Trinidad & Tobago",
+        "Country Name (CN)": "特立尼达和多巴哥"
+    },
+    {
+        "Two Code": "TV",
+        "Three Code": "TUV",
+        "Number": "798",
+        "ISO Code": "ISO 3166-2:TV",
+        "Country Name (EN)": "Tuvalu",
+        "Country Name (CN)": "图瓦卢"
+    },
+    {
+        "Two Code": "TW",
+        "Three Code": "TWN",
+        "Number": "158",
+        "ISO Code": "ISO 3166-2:TW",
+        "Country Name (EN)": "Taiwan, Province of China",
+        "Country Name (CN)": "台湾"
+    },
+    {
+        "Two Code": "TZ",
+        "Three Code": "TZA",
+        "Number": "834",
+        "ISO Code": "ISO 3166-2:TZ",
+        "Country Name (EN)": "Tanzania",
+        "Country Name (CN)": "坦桑尼亚"
+    },
+    {
+        "Two Code": "UA",
+        "Three Code": "UKR",
+        "Number": "804",
+        "ISO Code": "ISO 3166-2:UA",
+        "Country Name (EN)": "Ukraine",
+        "Country Name (CN)": "乌克兰"
+    },
+    {
+        "Two Code": "UG",
+        "Three Code": "UGA",
+        "Number": "800",
+        "ISO Code": "ISO 3166-2:UG",
+        "Country Name (EN)": "Uganda",
+        "Country Name (CN)": "乌干达"
+    },
+    {
+        "Two Code": "UM",
+        "Three Code": "UMI",
+        "Number": "581",
+        "ISO Code": "ISO 3166-2:UM",
+        "Country Name (EN)": "United States Minor Outlying Islands",
+        "Country Name (CN)": "美国本土外小岛屿"
+    },
+    {
+        "Two Code": "US",
+        "Three Code": "USA",
+        "Number": "840",
+        "ISO Code": "ISO 3166-2:US",
+        "Country Name (EN)": "United States of America (USA)",
+        "Country Name (CN)": "美国"
+    },
+    {
+        "Two Code": "UY",
+        "Three Code": "URY",
+        "Number": "858",
+        "ISO Code": "ISO 3166-2:UY",
+        "Country Name (EN)": "Uruguay",
+        "Country Name (CN)": "乌拉圭"
+    },
+    {
+        "Two Code": "UZ",
+        "Three Code": "UZB",
+        "Number": "860",
+        "ISO Code": "ISO 3166-2:UZ",
+        "Country Name (EN)": "Uzbekistan",
+        "Country Name (CN)": "乌兹别克斯坦"
+    },
+    {
+        "Two Code": "VA",
+        "Three Code": "VAT",
+        "Number": "336",
+        "ISO Code": "ISO 3166-2:VA",
+        "Country Name (EN)": "Vatican City (The Holy See)",
+        "Country Name (CN)": "梵蒂冈"
+    },
+    {
+        "Two Code": "VC",
+        "Three Code": "VCT",
+        "Number": "670",
+        "ISO Code": "ISO 3166-2:VC",
+        "Country Name (EN)": "St. Vincent & the Grenadines",
+        "Country Name (CN)": "圣文森特和格林纳丁斯"
+    },
+    {
+        "Two Code": "VE",
+        "Three Code": "VEN",
+        "Number": "862",
+        "ISO Code": "ISO 3166-2:VE",
+        "Country Name (EN)": "Venezuela",
+        "Country Name (CN)": "委内瑞拉"
+    },
+    {
+        "Two Code": "VG",
+        "Three Code": "VGB",
+        "Number": "92",
+        "ISO Code": "ISO 3166-2:VG",
+        "Country Name (EN)": "British Virgin Islands",
+        "Country Name (CN)": "英属维尔京群岛"
+    },
+    {
+        "Two Code": "VI",
+        "Three Code": "VIR",
+        "Number": "850",
+        "ISO Code": "ISO 3166-2:VI",
+        "Country Name (EN)": "United States Virgin Islands",
+        "Country Name (CN)": "美属维尔京群岛"
+    },
+    {
+        "Two Code": "VN",
+        "Three Code": "VNM",
+        "Number": "704",
+        "ISO Code": "ISO 3166-2:VN",
+        "Country Name (EN)": "Vietnam",
+        "Country Name (CN)": "越南"
+    },
+    {
+        "Two Code": "VU",
+        "Three Code": "VUT",
+        "Number": "548",
+        "ISO Code": "ISO 3166-2:VU",
+        "Country Name (EN)": "Vanuatu",
+        "Country Name (CN)": "瓦努阿图"
+    },
+    {
+        "Two Code": "WF",
+        "Three Code": "WLF",
+        "Number": "876",
+        "ISO Code": "ISO 3166-2:WF",
+        "Country Name (EN)": "Wallis and Futuna",
+        "Country Name (CN)": "瓦利斯和富图纳"
+    },
+    {
+        "Two Code": "WS",
+        "Three Code": "WSM",
+        "Number": "882",
+        "ISO Code": "ISO 3166-2:WS",
+        "Country Name (EN)": "Samoa",
+        "Country Name (CN)": "萨摩亚"
+    },
+    {
+        "Two Code": "YE",
+        "Three Code": "YEM",
+        "Number": "887",
+        "ISO Code": "ISO 3166-2:YE",
+        "Country Name (EN)": "Yemen",
+        "Country Name (CN)": "也门"
+    },
+    {
+        "Two Code": "YT",
+        "Three Code": "MYT",
+        "Number": "175",
+        "ISO Code": "ISO 3166-2:YT",
+        "Country Name (EN)": "Mayotte",
+        "Country Name (CN)": "马约特"
+    },
+    {
+        "Two Code": "ZA",
+        "Three Code": "ZAF",
+        "Number": "710",
+        "ISO Code": "ISO 3166-2:ZA",
+        "Country Name (EN)": "South Africa",
+        "Country Name (CN)": "南非"
+    },
+    {
+        "Two Code": "ZM",
+        "Three Code": "ZMB",
+        "Number": "894",
+        "ISO Code": "ISO 3166-2:ZM",
+        "Country Name (EN)": "Zambia",
+        "Country Name (CN)": "赞比亚"
+    },
+    {
+        "Two Code": "ZW",
+        "Three Code": "ZWE",
+        "Number": "716",
+        "ISO Code": "ISO 3166-2:ZW",
+        "Country Name (EN)": "Zimbabwe",
+        "Country Name (CN)": "津巴布韦"
+    }
+]

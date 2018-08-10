@@ -76,6 +76,21 @@
         # 无法自动安装时，按提示链接用迅雷下载文件后再进行安装
         pip install pygal-2.4.0-py2.py3-none-any.whl --user
 
+* 要了解使用Pygal可创建什么样的图表，可以访问[http://www.pygal.org/](http://www.pygal.org/)并依次点击
+  * Documentation
+  * Chart types
+
+> ## 安装 pygal_maps_world
+> 我们将使用它来返回国别码，代替原来的 pygal.i18n
+
+* 安装
+
+  ```python
+  pip install --user pygal_maps_world
+  # 安装不成功时，从提示的链接下载后再进行安装
+  pip install --user pygal_maps_world-1.0.2.tar.gz
+  ```
+
 > ## 安装rope
 >
 > 用于在VS Code中批量修改变量名的插件
@@ -83,3 +98,12 @@
 * 安装rope
 
         pip install rope-0.10.7.tar.gz --user
+
+> ## Markdown相关
+>
+> 安装Markdown文件编辑相关插件
+
+* 用到的插件
+  * Markdown All in One **方便编辑Markdown的所有内容**
+  * Markdown Preview Github Styling **用Github预览的插件**
+  * Markdown PDF **用于输出Markdown文档到PDF等其它格式文件的插件**

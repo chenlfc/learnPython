@@ -1,16 +1,20 @@
 # 关于git的一些设置问题，以及安装与使用过程中的一些问题的汇总
 
+> ![GitHub Logo](https://www.easyicon.net/download/png/1128210/48/)
+>
 > ## git 提交很慢或者卡住writing objects的解决方法
 
 * 执行以下代码
 
-      git config --global http.postBuffer 524288000
+  ```python
+  git config --global http.postBuffer 524288000
+  ```
 
 * 解决github 打开、拉取、推送速度慢的问题
   * 打开ipaddress.com,查询如下两个域名，并分别记录下其对应的ip：
 
-        github.com
-        github.global.ssl.fastly.net
+    github.com
+    github.global.ssl.fastly.net
 
   * 更新host文件
 

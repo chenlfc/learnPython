@@ -39,7 +39,7 @@
     "materialTheme.accentPrevious": "Cyan",
     "materialTheme.accent": "Purple",
     "terminal.integrated.fontSize": 18,
-    "workbench.colorTheme": "Eva Dark Bold",
+    "workbench.colorTheme": "Eva Dark",
     "workbench.editor.tabSizing": "shrink",
     "workbench.colorCustomizations": {
         "activityBarBadge.background": "#AB47BC",
@@ -77,4 +77,11 @@
     "git.enableSmartCommit": true,
     "git.confirmSync": false,
     "git.autofetch": true,
+    "[markdown]": {},
+    "markdown.extension.preview.autoShowPreviewToSide": false,
+    "markdown.extension.showExplorer": true,
+    "markdown.extension.tableFormatter.normalizeIndentation": true,
+    "markdown.extension.toc.githubCompatibility": true,
+    // "markdown.extension.syntax.plainTheme": true,
+    // "markdown.extension.toc.plaintext": true,
 }
