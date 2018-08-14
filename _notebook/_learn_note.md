@@ -16,15 +16,22 @@
     str.rstrip()  # 删除右侧空白
     str.strip()   # 删除头尾处所有空白
     ```
-> ## 一些关于图表库matplotlib的问题与学习内容
->
 
-* ### 要了解pylot中所有的颜色映射
+> ## 一些关于图表库matplotlib的问题与学习内容
+
+* **关于matplotlib的用法可以去** [查看各种图表的生成代码](https://matplotlib.org/gallery/)
+* **要了解pylot中所有的颜色映射**
 
   * 访问 [https://matplotlib.org/](https://matplotlib.org/)
   * 单击 Examples
   * 滚动到 Color Examples
   * 再单击 colormaps_reference
+
+> ## 一些关于Pygal的问题与学习内容
+
+* 要了解使用Pygal可创建什么样的图表，可以访问[http://www.pygal.org/](http://www.pygal.org/)并依次点击
+  * Documentation
+  * Chart types
 
 > ## 数据可视化
 >

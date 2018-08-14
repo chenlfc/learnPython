@@ -57,5 +57,36 @@
       }
     }
     ```
-  * 使用获取的数据信息进行数据可视化，如下图
-    ![python_repos.py](python_repos.svg)
+
+> ## python_repos.py
+> **从网络获取数据信息并进行数据可视化的源代码示例**
+
+* 使用获取的数据信息进行数据可视化，如下图
+  ![python_repos.py](python_repos.svg)
+
+> ## bar_descriptions.py
+> **添加自定义工具提示的源代码示例**
+> 在Pygal中，将鼠标指向条形将显示它表示的信息，这通常称为工具提示。
+* 在这个示例中，默认显示的是项目获得了多少个星，现在将同时显示项目的描述。
+
+  ```python
+  # 以下代码段在python_repos.py文件中
+  plot_dict = {
+      'value': repo_dict['stargazers_count'], # 工具提示中的数值
+      'label': str(repo_dict['description']), # 工具提示中的文字说明
+      'xlink': repo_dict['html_url'], # 工具提示的链接，点击条形将转到此链接的内容
+  }
+  --snip--
+  chart.add('', plot_dicts) # 这里用plot_dicts代替原先的和数据列
+  ```
+
+> ## Hacker News API 由于无法访问该网站，这个例题没法实现。具体内容可参阅书中352页的内容
+> **探索如何使用其它网站的API调用，我们来看看[Hacker News](http://news.ycombinator.com/)**
+* 下面的调用返回本书编写时最热门的文章的信息
+
+  ```html
+  https://hacker-news.firebaseio.com/v0/topstories.json
+  ```
+
+> ## hn_submissions.py
+> **这个文件的代码执行一个API调用，返回Hacker News上当前热门文章的ID再查看每篇排名靠前的文章**
