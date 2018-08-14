@@ -38,7 +38,28 @@
 * ### 在Django中创建项目
   * 在依然处于活动的虚拟环境下执行如下命令来新建一个项目
     ```bat
-    djang-admin.py startproject learning_log .
+    django-admin.exe startproject learning_log .
     ```
   * 新建一个名为learning_log的项目,这个命令最后的句点让新项目使用合适的目录结构，这样开发完成后可轻松地将应用程序部署到服务器
-  * **千万别忘了这个句点，否则部署时会遭遇一些配置问题。如果忘了，就将创建的文件和文件夹删除(ll_env除外)，再重新运行这个命令**
+  * 千万别忘了这个【 **句点** 】，否则部署时会遭遇一些配置问题。如果忘了，就将创建的文件和文件夹删除(ll_env除外)，再重新运行这个命令
+    ```bat
+    # 上一条Django语句创建了如下文件内容，如漏了句点就需删除它们
+    manage.py     # 这是一个简单的程序，它接受命令并将其交给Django的相关部分去运行
+    learning_log  # 文件夹
+      settings.py # 指定Django如何与我们的系统交互以及如何管理项目
+      urls.py     # 告诉Django应创建哪些网页来响应浏览器请求
+      wsgi.py     # 帮助Django提供它创建的文件
+                  # 它是web server gateway interface(Web服务器网关接口)的首字母缩写
+    ```
+* ### 创建数据库
+  * Django将大部分与项目相关的信息都存储在数据库中，因此我们需要创建一个供Django使用的数据库
+  * 在处于活动虚拟环境中执行下面命令
+    ```bat
+    python manage.py migrate
+    Operations to perform:
+      Apply all migrations: admin, auth, contenttypes, sessions
+    Running migrations:
+      Applying contenttypes.0001_initial... OK
+      --snip--
+      
+    ```
