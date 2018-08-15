@@ -89,36 +89,45 @@
     Starting development server at http://127.0.0.1:8000/
     Quit the server with CTRL-BREAK.
     ```
-  * **如果出现错误消息 “That port is already in use” (指定端口已被占用)，请执行如下命令，让Django使用另一个端口
+  * **如果出现错误消息 “That port is already in use” (指定端口已被占用)，请执行如下命令，让Django使用另一个端口**
     ```powershell
     python manage.py runserver 8001 # 端口号可以一直加大尝试，知道能够使用为止
     ```
-* ### 创建应用程序
-  * Django项目由一系列应用程序组成，它们协同工作，让项目成为一个整体。
-  * **在运行着runserver的终端窗口外**，再打开一个终端窗口
-  * 并切换到 **manage.py** 所在目录。激活虚拟环境，再执行命令startapp
-    ```powershell
-    ll_env/scripts/activate
-    python manage.py startapp learning_logs
+> ## 创建应用程序
+>
+> Django项目由一系列应用程序组成，它们协同工作，让项目成为一个整体。
+* **在运行着runserver的终端窗口外**，再打开一个终端窗口
+* 并切换到 **manage.py** 所在目录。激活虚拟环境，再执行命令startapp
 
-    learning_logs\models.py # 这个文件将用来定义要在应用程序中管理的数据
+  ```powershell
+  ll_env/scripts/activate
+  python manage.py startapp learning_logs
+
+  learning_logs\models.py # 这个文件将用来定义要在应用程序中管理的数据
+  ```
+
+* ### 定义模型`models.py`
+  * 我们创建了一个名为 **Topic** 的类，它继承了Model - Django中一个定义了模型基本功能的类。
+  * **要获悉可在模型中使用的各种字段，请参阅[Django Model Field Reference（Django模型字段参考）](https://docs.djangoproject.com/en/2.1/ref/models/fields/)**
+* ### 激活模型 `settings.py`
+  * 要使用模型，必须让Django将应用程序包含到项目中。
+    ```python
+    INSTALLED_APPS = [
+        --snip--
+        'django.contrib.staticfiles',
+
+        # 我的应用程序
+        'learning_logs',
+    ]
     ```
-  * 定义模型 **models.py**
-    * 我们创建了一个名为 **Topic** 的类，它继承了Model - Django中一个定义了模型基本功能的类。
-    * **要获悉可在模型中使用的各种字段，请参阅[Django Model Field Reference（Django模型字段参考）](https://docs.djangoproject.com/en/2.1/ref/models/fields/)**
-  * 激活模型 **settings.py**
-    * 要使用模型，必须让Django将应用程序包含到项目中。
-      ```python
-      INSTALLED_APPS = [
-          --snip--
-          'django.contrib.staticfiles',
+  * 通过将应用程序编组，在项目不断增大时有助于对应用程序进行跟踪。
+  * 以上新建了一个名为 **我的应用程序** 的片段，目前它只包含应用程序 **learning_logs**
+  * **修改`admin.py`的内容，把Topic添加到admin网站页面中去**
+    ```python
+    from learning_logs.models import Topic
 
-          # 我的应用程序
-          'learning_logs',
-      ]
-      ```
-    * 通过将应用程序编组，在项目不断增大时有助于对应用程序进行跟踪。
-    * 以上新建了一个名为 **我的应用程序** 的片段，目前它只包含应用程序 **learning_logs**
+    admin.site.register(Topic)
+    ```
   * **接下来让Django修改数据库，使其能够存储与模型Topic相关的信息。**
     * 为此我们需要在终端窗口中执行下面的命令
       ```powershell
@@ -143,19 +152,19 @@
     1. 修改models.py
     2. 对learning_logs调用makemigrations
     3. 让Django迁移项目
-  * **Django管理网站**
-    * 为应用程序定义模型时，Django提供的管理网站（admin site）让我们能够轻松地处理模型。
-    * 创建超级用户
-      ```powershell
-      python manage.py createsuperuser
-      # 以下是交互信息
-      Username (leave blank to use 'administrator'): ll_admin
-      Email address: chenlfc@126.com
-      Password:
-      Password (again):
-      Superuser created successfully.
-      ```
-  * 向管理网站注册模型 **admin.py**
+* ### Django管理网站
+  * 为应用程序定义模型时，Django提供的管理网站（admin site）让我们能够轻松地处理模型。
+  * **创建超级用户**
+    ```powershell
+    python manage.py createsuperuser
+    # 以下是交互信息
+    Username (leave blank to use 'administrator'): ll_admin
+    Email address: chenlfc@126.com
+    Password:
+    Password (again):
+    Superuser created successfully.
+    ```
+  * **向管理网站注册模型`admin.py`**
     * Django自动再管理网站中添加了一些模型，如User和Group，但对于我们创建的模型，必须手工进行注册。
     ```powershell
     # 在终端激活服务器
@@ -164,7 +173,7 @@
     http://127.0.0.1:8000/admin
     # 输入username和password
     ```
-  * 定义模型 **Entry**
+  * **定义模型`Entry`**
     1. 修改 **models.py** 文件
     2. 对learning_logs调用makemigrations
     3. 让Django迁移项目
@@ -206,3 +215,20 @@
   * **Django API**
     * 编写访问项目中的数据的代码时，我们编写的是查询。
     * 关于如何查询数据的文档，其网址为[https://docs.djangoproject.com/en/2.1/topics/db/queries/](https://docs.djangoproject.com/en/2.1/topics/db/queries/)
+
+> ## 创建网页：学习笔记主页
+> 使用Django创建网页的过程一般分为三个阶段
+>
+> 定义URL、编写视图和编写模板
+* ### 定义URL
+  * URL模式描述了URL是如何设计的，让Django知道如何将浏览器请求与网站URL匹配，确定返回哪个网页
+  * **映射URL**
+    * `./learning_log/urls.py`**在这个文件中映射`.learning_logs/urls.py`**
+    * `./learning_logs/urls.py`**在这个文件中定义`learning_logs的URL模式`**
+* ### 编写视图
+  * 每个URL都被映射到特定的视图，视图函数获取并处理网页所需的数据。
+  * 视图函数通常调用一个模板，模板能够生成浏览器能够理解的网页。
+  * **编写视图`views.py`**
+* ### 编写模板
+  * 用于生成浏览器能够理解的网页
+  * **主页的简单模板文件`./learning_logs/templates/learning_logs/index.html`**

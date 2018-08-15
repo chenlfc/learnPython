@@ -11,6 +11,7 @@
 * Anaconda Extension Pack **增强型代码提示**
 * Settings Sync **同步VS Code设置到github账户**  快捷键（上传：Shift + Alt + U）（下载：Shift + Alt + D）
 * Path Autocomplete **自动提示目录下的文件**
+* symbol explorer **大纲显示的扩展插件**
 
 > ## Markdown相关
 >
@@ -24,4 +25,4 @@
 > ## git插件
 
 * Git History **用于简单回档对比的插件**
-* GitLens **与vscode紧密结合的git插件**
+* **这个插件有冲突，python的大纲会无法正确显示** GitLens **与vscode紧密结合的git插件**

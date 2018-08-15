@@ -1,7 +1,10 @@
 {
-    "folders": [
-        {
+    "folders": [{
             "path": "."
+        },
+        {
+            "path": "D://My Data//Documents//GitHub//pizzeria"
+            // "path": "D://Documents//GitHub//pizzeria",
         }
     ],
     "settings": {

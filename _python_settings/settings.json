@@ -6,7 +6,7 @@
         "--disable=C0111"
     ],
     "files.autoSave": "afterDelay",
-    "python.formatting.provider": "yapf",
+    "python.formatting.provider": "autopep8",
     "editor.colorDecorators": true,
     "editor.cursorBlinking": "phase",
     "editor.cursorWidth": 3,
@@ -82,6 +82,7 @@
     "markdown.extension.showExplorer": true,
     "markdown.extension.tableFormatter.normalizeIndentation": true,
     "markdown.extension.toc.githubCompatibility": true,
+    "breadcrumbs.enabled": true,
     // "markdown.extension.syntax.plainTheme": true,
     // "markdown.extension.toc.plaintext": true,
 }
