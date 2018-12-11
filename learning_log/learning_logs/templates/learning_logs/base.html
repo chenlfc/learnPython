@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<style type="text/css">
+    a {
+        color:#856A1E
+    }
+
+    a:hover {
+        color: rgba(133, 106, 30, 0.51)
+    }
+
+    .flex-container {
+        padding: 0;
+        margin: 0;
+        list-style: none;
+
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+
+        flex-flow: row wrap;
+        justify-content: space-around;
+    }
+
+    .flex-item {
+        background: rgba(255, 99, 71, 0.51);
+        padding: 0.01em;
+        width: 100%;
+        height: 100%;
+        margin-top: 100px;
+
+        line-height: 0%;
+        color: white;
+        font-weight: bold;
+        font-size: 3em;
+        text-align: left;
+    }
+</style>
+<p>
+    <strong>
+        <font size="4" color="#44444474">
+            <a href="{% url 'index' %}">Learning Log</a> -
+            <a href="{% url 'topics' %}">Topics</a>
+        </font>
+    </strong>
+    <hr style="height: 1px;border:none;border-top: 1px double #44444474;" /> {% block content %}{% endblock content %}
+</p>
+<ul class="flex-container">
+    <div class="flex-item">
+        <font size="1" color="#44444474">
+            &copy;2018 O.C.
+        </font>
+    </div>
+</ul>

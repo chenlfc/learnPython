@@ -101,6 +101,7 @@
 
   ```powershell
   ll_env/scripts/activate
+  # 创建应用程序
   python manage.py startapp learning_logs
 
   learning_logs\models.py # 这个文件将用来定义要在应用程序中管理的数据
@@ -232,3 +233,79 @@
 * ### 编写模板
   * 用于生成浏览器能够理解的网页
   * **主页的简单模板文件`./learning_logs/templates/learning_logs/index.html`**
+* ### 创建其它网页
+  * **创建其他网页**
+  * 模板继承
+    * 创建网站时，几乎都有一些所有网页都将包含的元素。在这种情况下，可以编写一个包含通用元素的父模板
+    * **父模板`base.html`**
+      ```html
+      <p>
+          <!--以下{%%}生成一个URL，该URL与learning_log/urls.py中
+          定义的名为index的URL模式匹配
+          这里的learning_log是一个命名空间，而index是该命名空间中的一
+          个名称独特的URL模式-->
+          <a href="{% url 'learning_logs:index' %}">Learning Log</a>
+      </p>
+      <!--这里的块标签内的块名为content，是一个占位符，其中包含的信息由
+      子模版确定-->
+      {% block content %}{% endblock content %}
+      ```
+      * **简单的HTML页面中，链接是使用锚标签定义的**
+        * `<a href="link_url">link text</a>`
+    * **子模板**`index.html`
+      ```html
+      <!--第一行指出了需要继承的网页的路径及名称base.html-->
+      {% extends "learning_logs/base.html" %}
+      <!--不是从父模板中继承的内容都要放在这里的块标签内-->
+      {% block content %}
+      <p>
+          Log helps you keep track of your learning, for any topic you're learning about.
+      </p>
+      {% endblock content%}
+      ```
+  > **注意**
+  >
+  > 在大型项目中，通常有一个用于整个网站的父模板`base.html`，而网站的每个主要部分都有一个父模板。每个部分的父模板都继承`base.html`，而网站的每个页面都继承相应部分的父模板。**这种配置可以很轻松的修改整个网站的外观、网站任何一部分的外观以及任何一个网页的外观。这种配置提供了一种效率极高的工作方式，让我们乐意不断地去改进网站。**
+  * **显示所有主题的页面`URL http://localhost:8000/topics`**
+    * URL模式，修改`learning_logs/urls.py`文件内容，增加显示所有主题的path
+    * 视图，修改`learning_logs/views.py`文件，增加模块`topics()`
+      ```python
+      # 导入与所需数据相关联的模型
+      from .models import Topic
+
+      def topics(request):
+        """显示所有的主题"""
+        # 查询数据库，请求提供Topic对象，并按属性date_added对他们进行排序。
+        # 将返回的查询集存储在topics中
+        topics = Topic.object.order_by('date_added')
+        # 我们定义了一个将要发送给模板的上下文。上下文是一个字典，键是我们在模板中
+        # 用来访问数据的名称，值是我们要发送给模板的数据。
+        # 在这里，只有一个键-值对，它包含我们将在网页中显示的一组主题
+        context = {'topics': topics}
+        # 创建使用数据的网页时，除对象request和模板的路径外，我们还将变量context
+        # 传递给render()
+        return render(request, 'learning_logs/topics.html', context)
+      ```
+    * 模板`topics.html`
+    * **模板中的循环类似于下面的样子**
+      ```html
+      {% for item in list %}
+        do something with each item
+      {% endfor %}
+      ```
+    * 模板`topics.html`中的代码`{{topic}}`告诉Django我们使用了一个模板变量
+  * **显示特定主题的页面**
+    * URL模式，修改`learning_logs/urls.py`文件内容，增加显示特定主题详细页面相关语句
+    * 视图，修改`learning_logs/views.py`文件内容，增加函数`topic()`，获取指定的主题以及与之相关联的所有条目
+    * 模板`topic.html`
+      * 下面第一句获取条目的时间戳
+      * 第二句的过滤器 **linkbreaks**将包含换行符的长条目转换为浏览器能够理解的格式
+      ```html
+      {{ entry.date_added|date:'M d, Y H:i'}}
+      {{ entry.text|linebreaks }}
+      ```
+    * 将显示所有主题的页面中的每个主题都设置为链接，修改模板`topics.html`的内容，让每个主题都连接到相应的内容
+      ```html
+      <a href="{% url 'topic' topic.id %}"> {{topic}} </a>
+      ```
+  * **Django模板文档** [https://docs.djangoproject.com/en/2.1/ref/templates/](https://docs.djangoproject.com/en/2.1/ref/templates/)

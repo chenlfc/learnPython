@@ -1,0 +1,33 @@
+<!DOCTYPE html> {% extends 'learning_logs/base.html' %} {% block content %}
+<strong>
+    <p>
+        <font size="3" color="#856A1E">
+            Topic: {{ topic }}
+        </font>
+    </p>
+    <p>
+        <font size="2" color="#856A1E">
+            Entries
+        </font>
+    </p>
+</strong>
+<ul>
+    <font size="1" color="#856A1E">
+        {% for entry in entries %}
+        <li>
+            <p>
+                {{ entry.date_added|date:'M d, Y H:i'}}
+            </p>
+            <p>
+                {{ entry.text|linebreaks }}
+            </p>
+        </li>
+        {% empty %}
+        <li>
+            <a>There are no entries for this topic yet.</a>
+            <a>还没有关于这个主题的内容。</a>
+        </li>
+        {% endfor %}
+    </font>
+</ul>
+{% endblock content %}
