@@ -545,3 +545,94 @@ print(pprint.pformat(someDictonaryValue))
 
 ### 1.9 字符串操作
 
+#### 1.9.1 原始字符串
+
+> 在字符串引号之前加上r，使它称为原始字符串。“原始字符串”完全忽略所有的转义字符，打印出字符串所有的倒斜杠
+
+```python
+>>> print(r'That is carol\'s cat.')
+That is carol\'s cat.
+```
+
+#### 1.9.2 三重引号的多行字符串
+
+> 多行字符串的起止是3个单引号或3个双引号。“三重引号”之间的所有引号、制表符或者换行，都被认为是字符串的一部分。
+
+#### 1.9.3 多行注释
+
+> 井号(#)表示这是一行注释，但多行字符串常常用作多行注释。
+
+#### 1.9.4 有用的字符串方法
+
+> 一些字符串方法会分析字符串，或生成转变过的字符串。
+
+##### 1.9.4.1 改变字符串内容的方法
+
+> `upper()、lower()`
+
+##### 1.9.4.2 判断字符串内容的方法
+
+* `isupper()和islower()`
+
+* `isX`字符串方法
+
+  | isX字符串方法 | 返回值 | 说明                                                   |
+  | ------------- | ------ | ------------------------------------------------------ |
+  | `isalpha()`   | True   | 如果字符串只包含字母，并且非空                         |
+  | `isalnum()`   | True   | 如果字符串只包含字母和数字，并且非空                   |
+  | `isdecimal()` | True   | 如果字符串只包含数字字符，并且非空                     |
+  | `isspace()`   | True   | 如果字符串只包含空格、制表符和换行，并且非空           |
+  | `istitle()`   | True   | 如果字符串仅包含以大写字母开头、后面都是小写字母的单词 |
+
+* 字符串方法`startswith()`和`endswith()`
+
+  * 这2个方法返回Ture，如果他们所调用的字符串以该方法传入的字符串开始或结束。否则，返回False
+
+    ```python
+    >>> 'Hello world!'.startswith('Hello')
+    True
+    >>> 'Hello world!'.endswith('world!')
+    True
+    ```
+
+##### 1.9.4.3 连接与拆散字符串方法
+
+* `join()`字符串方法：用于将一个字符串列表连接起来，成为一个单独的字符串
+
+```python
+>>> ', '.join(['cats', 'rats', 'bats'])
+'cats, rats, bats'
+```
+
+* `split()`字符串方法：将针对一个字符串调用，返回一个字符串列表
+
+```python
+>>> 'My name is Simon'.split()
+['My', 'name', 'is', 'Simon']
+```
+
+##### 1.9.4.4 格式化字符串方法
+
+* 用`rjust()`、`ljust()`和`center()`方法对齐文本
+
+  ```python
+  >>> 'Hello'.rjust(10)
+  '     Hello'
+  ```
+
+* 用`strip()`、`rstrip()`和`lstrip()`方法删除空白字符
+
+  * `lstrip()`删除左侧空白字符
+
+  * `rstrip()`删除右侧空白字符
+
+  * `strip()`
+
+    * 默认不带参数，删除左侧与右侧的空白字符
+    * 它有个可选参数，指定两边的哪些字符应该删除(该参数也可应用于其余2个方法)
+
+    ```python
+    >>> spam = 'SpamSpamBaconSpamEggsSpamSpam'
+    >>> spam.strip('ampS')
+    'BacomSpamEggs'
+    ```

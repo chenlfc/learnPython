@@ -1,3 +1,12 @@
+"""
+Create By: O.C.
+Date: 2018/12/11
+
+This is a test program.
+ex_5.6.2_addToInventory.py
+
+"""
+
 
 def addToInventory(inventory, addedItems):
     inv = inventory
@@ -13,9 +22,9 @@ def displayInventory(items):
     print('Inventory:')
     total = 0
     for k, v in items.items():
-        print(str(v) + ' ' + k)
+        print((str(v).ljust(5)) + ' ' + k)
         total = total + v
-    print('Total number of items: ' + str(total))
+    print('Total number of items: ' + str(total).rjust(5))
 
 
 inv = {'gold coin': 42, 'rope': 1}
