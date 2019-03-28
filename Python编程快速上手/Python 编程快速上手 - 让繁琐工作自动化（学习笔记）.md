@@ -636,3 +636,50 @@ That is carol\'s cat.
     >>> spam.strip('ampS')
     'BacomSpamEggs'
     ```
+
+##### 1.9.4.5 用pyperclip模块拷贝粘贴字符串
+
+> pyperclip模块有copy()和paste()函数，可以像计算机的剪贴板发送文本，或从它接受文本。
+
+* pyperclip模块默认没有安装，需要通过pip命令进行自行安装
+
+```cmd
+pip install pyperclip
+```
+
+* pyperclip模块内函数的应用示例
+
+```python
+>>> import pyperclip
+>>> pyerclip.copy('Hello world!')
+>>> pyerclip.paste()
+'Hello world!'
+```
+
+### 1.10 项目示例
+
+#### 1.10.1 口令保险箱:处理命令行参数
+
+> 命令行参数存储在变量sys.argv中
+
+* 命令行参数是指调用python程序时后面给定的参数，如：`python pw.py 12345`
+
+```python
+import sys # sys.argv必须用到的外部模块
+if len(sys.argv) < 2: # 检查参数的数量是否正确
+    print('Usage: python pw.py [account] - copy account password')
+    sys.exit()
+account = sys.argv[1] # 保存口令到变量
+```
+
+#### 1.10.2 在Wiki标记中添加无序列表
+
+> 本项目脚本将从剪贴板中取得文本，在每一行开始处加上星号和空格，然后将这段新的文本贴回到剪贴板。
+
+* 从剪贴板中复制和粘贴
+  * `pyperclip.copy()`：从剪贴板中复制
+  * `pyperclip.paste()`：将文本复制到剪贴板
+
+* 检查字符串中的特殊字符并以此分割字符串：`text.split('\n')`
+* 将列表中的项用特殊字符进行连接：`text = '\n'.join(lines)`
+
